@@ -89,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0437-path-sum-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0440-k-th-smallest-in-lexicographical-order/) | Hard |
 <!---LeetCode Topics End-->

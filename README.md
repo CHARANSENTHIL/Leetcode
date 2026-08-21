@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0399-evaluate-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0399-evaluate-division/) | Medium |
+| [0436-find-right-interval](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0436-find-right-interval/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0436-find-right-interval](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0436-find-right-interval/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +76,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0436-find-right-interval](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0436-find-right-interval/) | Medium |
 <!---LeetCode Topics End-->

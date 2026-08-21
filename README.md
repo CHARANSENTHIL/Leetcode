@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0433-minimum-genetic-mutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0402-remove-k-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
+| [0433-minimum-genetic-mutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0399-evaluate-division/) | Medium |
+| [0433-minimum-genetic-mutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 <!---LeetCode Topics End-->

@@ -98,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0443-string-compression](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0443-string-compression/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0492-construct-the-rectangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0492-construct-the-rectangle/) | Easy |
 <!---LeetCode Topics End-->

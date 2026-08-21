@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0402-remove-k-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0434-number-of-segments-in-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |

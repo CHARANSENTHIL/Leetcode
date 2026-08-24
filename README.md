@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0500-keyboard-row](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0500-keyboard-row/) | Easy |
+| [0508-most-frequent-subtree-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0399-evaluate-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0437-path-sum-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
+| [0508-most-frequent-subtree-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 ## Breadth-First Search
@@ -135,12 +137,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0437-path-sum-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
+| [0508-most-frequent-subtree-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0437-path-sum-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
+| [0508-most-frequent-subtree-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,4 +232,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 <!---LeetCode Topics End-->

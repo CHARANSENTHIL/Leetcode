@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0399-evaluate-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0402-remove-k-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
@@ -42,12 +43,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0399-evaluate-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0437-path-sum-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0399-evaluate-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 ## Union-Find
@@ -94,11 +97,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0437-path-sum-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0437-path-sum-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -153,4 +158,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 <!---LeetCode Topics End-->

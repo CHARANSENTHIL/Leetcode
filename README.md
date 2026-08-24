@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0648-replace-words/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0817-linked-list-components](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0508-most-frequent-subtree-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0575-distribute-candies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0648-replace-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0648-replace-words/) | Medium |
+| [0817-linked-list-components](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
@@ -242,4 +244,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0817-linked-list-components](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0817-linked-list-components/) | Medium |
 <!---LeetCode Topics End-->

@@ -116,11 +116,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0343-integer-break](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0343-integer-break/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [1872-stone-game-viii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0343-integer-break](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0343-integer-break/) | Medium |
 | [1872-stone-game-viii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |

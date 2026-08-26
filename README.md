@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3769-sort-integers-by-binary-reflection](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3920-maximize-fixed-points-after-deletions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3920-maximize-fixed-points-after-deletions/) | Hard |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Hash Table
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3769-sort-integers-by-binary-reflection](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3920-maximize-fixed-points-after-deletions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3920-maximize-fixed-points-after-deletions/) | Hard |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Math
@@ -265,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,4 +401,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->

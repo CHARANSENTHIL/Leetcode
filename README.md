@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Tree
 | Problem Name | Difficulty |

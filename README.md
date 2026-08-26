@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-minimum-increment-to-make-array-unique](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
+| [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1872-stone-game-viii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-minimum-increment-to-make-array-unique](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
+| [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Tree
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0492-construct-the-rectangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0593-valid-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0593-valid-square/) | Medium |
 | [0899-orderly-queue](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0899-orderly-queue/) | Hard |
+| [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1872-stone-game-viii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Dynamic Programming
@@ -306,4 +310,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0899-orderly-queue](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0899-orderly-queue/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 <!---LeetCode Topics End-->

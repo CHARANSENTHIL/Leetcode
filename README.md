@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1872-stone-game-viii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0923-3sum-with-multiplicity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |

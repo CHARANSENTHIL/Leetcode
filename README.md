@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3769-sort-integers-by-binary-reflection](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3769-sort-integers-by-binary-reflection](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-linked-list-components](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
+| [0895-maximum-frequency-stack](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0488-zuma-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0488-zuma-game/) | Hard |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0591-tag-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0591-tag-validator/) | Hard |
+| [0895-maximum-frequency-stack](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0895-maximum-frequency-stack](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
@@ -323,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0895-maximum-frequency-stack](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0895-maximum-frequency-stack/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |

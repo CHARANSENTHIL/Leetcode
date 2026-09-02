@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0888-fair-candy-swap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0923-3sum-with-multiplicity/) | Medium |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0492-construct-the-rectangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0593-valid-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0593-valid-square/) | Medium |
 | [0812-largest-triangle-area](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0899-orderly-queue](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0899-orderly-queue/) | Hard |
 | [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1006-clumsy-factorial](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1006-clumsy-factorial/) | Medium |
@@ -421,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0593-valid-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0593-valid-square/) | Medium |
 | [0812-largest-triangle-area](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -483,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |

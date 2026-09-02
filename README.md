@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0825-friends-of-appropriate-ages](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0832-flipping-an-image](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
+| [0867-transpose-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -477,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0661-image-smoother](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0661-image-smoother/) | Easy |
 | [0733-flood-fill](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0867-transpose-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0867-transpose-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1006-clumsy-factorial](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1006-clumsy-factorial/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |

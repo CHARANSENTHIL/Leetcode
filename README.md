@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0575-distribute-candies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0648-replace-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0648-replace-words/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0817-linked-list-components](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0817-linked-list-components/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0436-find-right-interval](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0436-find-right-interval/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3920-maximize-fixed-points-after-deletions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3920-maximize-fixed-points-after-deletions/) | Hard |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0436-find-right-interval](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0436-find-right-interval/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
@@ -277,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0321-create-maximum-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0443-string-compression](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0443-string-compression/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0881-boats-to-save-people](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0923-3sum-with-multiplicity/) | Medium |
@@ -384,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
@@ -399,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1040-moving-stones-until-consecutive-ii/) | Medium |
 ## Bit Manipulation

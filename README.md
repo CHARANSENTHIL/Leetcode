@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0648-replace-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0648-replace-words/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0817-linked-list-components](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0817-linked-list-components/) | Medium |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0508-most-frequent-subtree-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0575-distribute-candies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0648-replace-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0648-replace-words/) | Medium |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0736-parse-lisp-expression](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0736-parse-lisp-expression/) | Hard |
 | [0817-linked-list-components](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0135-candy/) | Hard |
 | [0321-create-maximum-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0402-remove-k-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
@@ -389,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |

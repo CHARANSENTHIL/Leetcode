@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0659-split-array-into-consecutive-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0661-image-smoother](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0661-image-smoother/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0679-24-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0679-24-game/) | Hard |
 | [0682-baseball-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0733-flood-fill](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0593-valid-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0593-valid-square/) | Medium |
 | [0670-maximum-swap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0670-maximum-swap/) | Medium |
+| [0679-24-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0679-24-game/) | Hard |
 | [0812-largest-triangle-area](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0899-orderly-queue](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0899-orderly-queue/) | Hard |
@@ -563,4 +565,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0519-random-flip-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0519-random-flip-matrix/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0679-24-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0679-24-game/) | Hard |
 <!---LeetCode Topics End-->

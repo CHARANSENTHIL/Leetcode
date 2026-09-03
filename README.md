@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0929-unique-email-addresses](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
+| [0932-beautiful-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0932-beautiful-array/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0932-beautiful-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0932-beautiful-array/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0899-orderly-queue](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0899-orderly-queue/) | Hard |
 | [0910-smallest-range-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0910-smallest-range-ii/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0932-beautiful-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0932-beautiful-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1006-clumsy-factorial](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1006-clumsy-factorial/) | Medium |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1040-moving-stones-until-consecutive-ii/) | Medium |

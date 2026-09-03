@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0321-create-maximum-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0402-remove-k-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
+| [0670-maximum-swap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0757-set-intersection-size-at-least-two](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0553-optimal-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0553-optimal-division/) | Medium |
 | [0564-find-the-closest-palindrome](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0593-valid-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0593-valid-square/) | Medium |
+| [0670-maximum-swap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [0812-largest-triangle-area](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0899-orderly-queue](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0899-orderly-queue/) | Hard |

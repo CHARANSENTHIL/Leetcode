@@ -372,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1006-clumsy-factorial](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1006-clumsy-factorial/) | Medium |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1040-moving-stones-until-consecutive-ii/) | Medium |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [1573-number-of-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1872-stone-game-viii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1872-stone-game-viii/) | Hard |

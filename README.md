@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1643-kth-smallest-instructions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1643-kth-smallest-instructions/) | Hard |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0888-fair-candy-swap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3920-maximize-fixed-points-after-deletions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3920-maximize-fixed-points-after-deletions/) | Hard |
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
@@ -453,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0923-3sum-with-multiplicity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |

@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1363-largest-multiple-of-three](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1366-rank-teams-by-votes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1366-rank-teams-by-votes/) | Medium |
+| [1383-maximum-performance-of-a-team](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1402-reducing-dishes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1363-largest-multiple-of-three/) | Hard |
+| [1383-maximum-performance-of-a-team](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [1402-reducing-dishes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1363-largest-multiple-of-three](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1366-rank-teams-by-votes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1366-rank-teams-by-votes/) | Medium |
+| [1383-maximum-performance-of-a-team](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1402-reducing-dishes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
@@ -638,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0786-k-th-smallest-prime-fraction](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
+| [1383-maximum-performance-of-a-team](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [1424-diagonal-traverse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |

@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1363-largest-multiple-of-three](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1366-rank-teams-by-votes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1366-rank-teams-by-votes/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0825-friends-of-appropriate-ages](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0888-fair-candy-swap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3920-maximize-fixed-points-after-deletions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3920-maximize-fixed-points-after-deletions/) | Hard |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1363-largest-multiple-of-three](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1366-rank-teams-by-votes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1366-rank-teams-by-votes/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
@@ -426,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |

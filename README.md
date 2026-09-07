@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0160-intersection-of-two-linked-lists](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0389-find-the-difference](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0321-create-maximum-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0443-string-compression](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -658,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0817-linked-list-components](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Sliding Window

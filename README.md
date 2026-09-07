@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0472-concatenated-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0500-keyboard-row](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0553-optimal-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0553-optimal-division/) | Medium |
 | [0575-distribute-candies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0575-distribute-candies/) | Easy |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0433-minimum-genetic-mutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0434-number-of-segments-in-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0443-string-compression/) | Medium |
+| [0472-concatenated-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0488-zuma-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0488-zuma-game/) | Hard |
 | [0500-keyboard-row](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0537-complex-number-multiplication/) | Medium |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0341-flatten-nested-list-iterator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0399-evaluate-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0437-path-sum-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
+| [0472-concatenated-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0508-most-frequent-subtree-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0733-flood-fill](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -298,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0472-concatenated-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0757-set-intersection-size-at-least-two](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
@@ -362,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0440-k-th-smallest-in-lexicographical-order/) | Hard |
+| [0472-concatenated-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0648-replace-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0648-replace-words/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -435,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0343-integer-break](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0343-integer-break/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0472-concatenated-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0488-zuma-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0488-zuma-game/) | Hard |
 | [0553-optimal-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0553-optimal-division/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |

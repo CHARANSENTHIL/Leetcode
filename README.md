@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1366-rank-teams-by-votes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1402-reducing-dishes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1402-reducing-dishes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
@@ -372,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1366-rank-teams-by-votes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1402-reducing-dishes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |

@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0436-find-right-interval/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0500-keyboard-row](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0553-optimal-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0553-optimal-division/) | Medium |
 | [0575-distribute-candies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0575-distribute-candies/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0389-find-the-difference](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0500-keyboard-row](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0508-most-frequent-subtree-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0519-random-flip-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0519-random-flip-matrix/) | Medium |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0436-find-right-interval/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0757-set-intersection-size-at-least-two](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |

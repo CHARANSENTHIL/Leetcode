@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0321-create-maximum-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0399-evaluate-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0414-third-maximum-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0436-find-right-interval/) | Medium |
 | [0500-keyboard-row](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0553-optimal-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0553-optimal-division/) | Medium |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0135-candy/) | Hard |
 | [0321-create-maximum-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0402-remove-k-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0670-maximum-swap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0436-find-right-interval/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
@@ -418,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0097-interleaving-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0343-integer-break](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0343-integer-break/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0488-zuma-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0488-zuma-game/) | Hard |
 | [0553-optimal-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0553-optimal-division/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |

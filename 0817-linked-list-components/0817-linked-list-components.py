@@ -1,19 +1,23 @@
+class ListNode(object):
+    def __init__(self, x):
+        self.val = x
+        self.next = None
+
 
 class Solution:
-    def numComponents(self, head: Optional[ListNode], nums: List[int]) -> int:
-        num_set = set(nums)
-
-        res = 0
-        flag = False
-        while head:
-            if head.val not in num_set and flag:
-                res += 1
-                flag = False
-            elif head.val in num_set:
-                flag = True
-            head = head.next
-
-        if flag:
-            res += 1
-
-        return res 
+    def numComponents(self, head, G):
+        """
+        :type head: ListNode
+        :type G: List[int]
+        :rtype: int
+        """
+        lookup = set(G)
+        dummy = ListNode(-1)
+        dummy.next = head
+        curr = dummy
+        result = 0
+        while curr and curr.next:
+            if curr.val not in lookup and curr.next.val in lookup:
+                result += 1
+            curr = curr.next
+        return result

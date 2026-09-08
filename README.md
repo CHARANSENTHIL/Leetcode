@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3587-minimum-adjacent-swaps-to-alternate-parity/) | Medium |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
+| [3590-kth-smallest-path-xor-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3590-kth-smallest-path-xor-sum/) | Hard |
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [2581-count-number-of-possible-root-nodes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2581-count-number-of-possible-root-nodes/) | Hard |
+| [3590-kth-smallest-path-xor-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3590-kth-smallest-path-xor-sum/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -558,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0508-most-frequent-subtree-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [2581-count-number-of-possible-root-nodes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2581-count-number-of-possible-root-nodes/) | Hard |
+| [3590-kth-smallest-path-xor-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3590-kth-smallest-path-xor-sum/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -765,6 +768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0895-maximum-frequency-stack](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
+| [3590-kth-smallest-path-xor-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3590-kth-smallest-path-xor-sum/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |

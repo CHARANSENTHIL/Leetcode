@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3584-maximum-product-of-first-and-last-elements-of-a-subsequence/) | Medium |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3587-minimum-adjacent-swaps-to-alternate-parity/) | Medium |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -663,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -842,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1040-moving-stones-until-consecutive-ii/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -937,6 +940,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2584-split-the-array-to-make-coprime-products/) | Hard |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -958,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1041,4 +1046,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
 <!---LeetCode Topics End-->

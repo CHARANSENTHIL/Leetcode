@@ -1,10 +1,17 @@
+# sort, array
 class Solution:
-    def countWays(self, ranges: List[List[int]]) -> int:
-           
-        cnt, hi = 1, -1
-        for a, b in sorted(ranges):
-            if hi < a:
-                cnt <<= 1
-                cnt %= 10 ** 9 + 7
-            hi = max(hi, b)
-        return cnt
+    def countWays(self, ranges):
+        """
+        :type ranges: List[List[int]]
+        :rtype: int
+        """
+        MOD = 10**9+7
+
+        ranges.sort()
+        cnt = 0
+        curr = float("-inf")
+        for l, r in ranges:
+            if l > curr:
+                cnt += 1
+            curr = max(curr, r)
+        return pow(2, cnt, MOD)

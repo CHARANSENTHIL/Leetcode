@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0805-split-array-with-same-average](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0805-split-array-with-same-average/) | Hard |
 | [0806-number-of-lines-to-write-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
+| [0809-expressive-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0810-chalkboard-xor-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [0812-largest-triangle-area](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0817-linked-list-components](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0817-linked-list-components/) | Medium |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0736-parse-lisp-expression](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0736-parse-lisp-expression/) | Hard |
 | [0792-number-of-matching-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0806-number-of-lines-to-write-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [0809-expressive-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0843-guess-the-word](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0843-guess-the-word/) | Hard |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0899-orderly-queue](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0899-orderly-queue/) | Hard |
@@ -491,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
+| [0809-expressive-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0832-flipping-an-image](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0881-boats-to-save-people](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |

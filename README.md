@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3583-count-special-triplets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3583-count-special-triplets/) | Medium |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3584-maximum-product-of-first-and-last-elements-of-a-subsequence/) | Medium |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3587-minimum-adjacent-swaps-to-alternate-parity/) | Medium |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3583-count-special-triplets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3583-count-special-triplets/) | Medium |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
@@ -437,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3576-transform-array-to-all-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3576-transform-array-to-all-equal-elements/) | Medium |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3587-minimum-adjacent-swaps-to-alternate-parity/) | Medium |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Monotonic Stack
@@ -659,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -801,6 +805,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0593-valid-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0593-valid-square/) | Medium |
 | [0812-largest-triangle-area](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1019,6 +1024,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0869-reordered-power-of-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
+| [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |

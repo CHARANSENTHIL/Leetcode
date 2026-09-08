@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0057-insert-interval/) | Medium |
+| [0063-unique-paths-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0135-candy](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0135-candy/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
@@ -639,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0097-interleaving-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -851,6 +853,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0661-image-smoother](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0661-image-smoother/) | Easy |
 | [0733-flood-fill](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0733-flood-fill/) | Easy |

@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3883-count-non-decreasing-arrays-with-given-digit-sums/) | Hard |
 | [3920-maximize-fixed-points-after-deletions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3920-maximize-fixed-points-after-deletions/) | Hard |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Hash Table
@@ -719,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3592-inverse-coin-change](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3592-inverse-coin-change/) | Medium |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
+| [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3883-count-non-decreasing-arrays-with-given-digit-sums/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -740,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
+| [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3883-count-non-decreasing-arrays-with-given-digit-sums/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

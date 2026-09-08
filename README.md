@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
+| [3889-mirror-frequency-distance](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3889-mirror-frequency-distance/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
+| [3889-mirror-frequency-distance](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3889-mirror-frequency-distance/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -813,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3467-transform-array-by-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3583-count-special-triplets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3583-count-special-triplets/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3889-mirror-frequency-distance](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3889-mirror-frequency-distance/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |

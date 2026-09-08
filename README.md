@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
 | [0798-smallest-rotation-with-highest-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0798-smallest-rotation-with-highest-score/) | Hard |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
+| [0804-unique-morse-code-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0805-split-array-with-same-average](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0805-split-array-with-same-average/) | Hard |
 | [0806-number-of-lines-to-write-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0736-parse-lisp-expression](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0736-parse-lisp-expression/) | Hard |
 | [0781-rabbits-in-forest](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0804-unique-morse-code-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0805-split-array-with-same-average](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0805-split-array-with-same-average/) | Hard |
 | [0811-subdomain-visit-count](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0817-linked-list-components](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0817-linked-list-components/) | Medium |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0736-parse-lisp-expression](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0736-parse-lisp-expression/) | Hard |
 | [0792-number-of-matching-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0804-unique-morse-code-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0809-expressive-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0811-subdomain-visit-count/) | Medium |

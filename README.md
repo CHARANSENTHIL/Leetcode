@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-max-increase-to-keep-city-skyline](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0809-expressive-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0810-chalkboard-xor-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0810-chalkboard-xor-game/) | Hard |
+| [0811-subdomain-visit-count](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0812-largest-triangle-area](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0817-linked-list-components](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0781-rabbits-in-forest](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0805-split-array-with-same-average](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0805-split-array-with-same-average/) | Hard |
+| [0811-subdomain-visit-count](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0817-linked-list-components](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-number-of-matching-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0806-number-of-lines-to-write-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0809-expressive-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0809-expressive-words/) | Medium |
+| [0811-subdomain-visit-count](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0843-guess-the-word](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0843-guess-the-word/) | Hard |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0899-orderly-queue](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0899-orderly-queue/) | Hard |
@@ -658,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0811-subdomain-visit-count](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0923-3sum-with-multiplicity/) | Medium |

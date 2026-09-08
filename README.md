@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0038-count-and-say](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0068-text-justification](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0068-text-justification/) | Hard |

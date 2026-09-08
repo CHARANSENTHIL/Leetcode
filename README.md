@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2574-left-and-right-sum-differences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
@@ -690,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1856-maximum-subarray-min-product](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [1872-stone-game-viii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2559-count-vowel-strings-in-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 ## Game Theory

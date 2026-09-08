@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0805-split-array-with-same-average](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0805-split-array-with-same-average/) | Hard |
 | [0806-number-of-lines-to-write-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0810-chalkboard-xor-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [0812-largest-triangle-area](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0817-linked-list-components](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0817-linked-list-components/) | Medium |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0757-set-intersection-size-at-least-two](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0881-boats-to-save-people](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0910-smallest-range-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0910-smallest-range-ii/) | Medium |
@@ -755,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0661-image-smoother](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0661-image-smoother/) | Easy |
 | [0733-flood-fill](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0794-valid-tic-tac-toe-state](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0832-flipping-an-image](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |

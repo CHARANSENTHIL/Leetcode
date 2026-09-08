@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
@@ -377,12 +378,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0399-evaluate-division/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1728-cat-and-mouse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1728-cat-and-mouse-ii/) | Hard |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0399-evaluate-division/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
@@ -882,6 +885,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1383-maximum-performance-of-a-team](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [1424-diagonal-traverse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1424-diagonal-traverse-ii/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1776-car-fleet-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
@@ -1127,4 +1131,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1728-cat-and-mouse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1728-cat-and-mouse-ii/) | Hard |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1514-path-with-maximum-probability](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 <!---LeetCode Topics End-->

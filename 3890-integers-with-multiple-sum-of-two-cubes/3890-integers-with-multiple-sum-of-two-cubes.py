@@ -1,0 +1,19 @@
+import collections
+
+
+# brute force, freq table, sort
+class Solution:
+    def findGoodIntegers(self, n):
+        """
+        :type n: int
+        :rtype: List[int]
+        """
+        cnt = collections.defaultdict(int)
+        for i in range(1, n+1):
+            if i**3 > n:
+                break
+            for j in range(i, (n-i**3)+1):
+                if j**3 > n-i**3:
+                    break
+                cnt[i**3+j**3] += 1
+        return sorted(k for k, v in cnt.items() if v >= 2)

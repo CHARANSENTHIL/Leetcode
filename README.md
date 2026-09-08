@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
+| [2589-minimum-time-to-complete-all-tasks](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2560-house-robber-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
+| [2589-minimum-time-to-complete-all-tasks](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3920-maximize-fixed-points-after-deletions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3920-maximize-fixed-points-after-deletions/) | Hard |
 ## Divide and Conquer
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1856-maximum-subarray-min-product](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2589-minimum-time-to-complete-all-tasks](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Greedy
@@ -407,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
+| [2589-minimum-time-to-complete-all-tasks](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -501,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2580-count-ways-to-group-overlapping-ranges/) | Medium |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
+| [2589-minimum-time-to-complete-all-tasks](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |

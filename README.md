@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
+| [2560-house-robber-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2580-count-ways-to-group-overlapping-ranges/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
+| [2560-house-robber-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3920-maximize-fixed-points-after-deletions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3920-maximize-fixed-points-after-deletions/) | Hard |
 ## Divide and Conquer
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [2560-house-robber-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -605,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1643-kth-smallest-instructions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1643-kth-smallest-instructions/) | Hard |
 | [1690-stone-game-vii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
+| [2560-house-robber-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |

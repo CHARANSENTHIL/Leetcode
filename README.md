@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1735-count-ways-to-make-array-with-product](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1776-car-fleet-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1840-maximum-building-height](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1856-maximum-subarray-min-product](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1856-maximum-subarray-min-product/) | Medium |
@@ -692,6 +693,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1776-car-fleet-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1840-maximum-building-height](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -991,6 +993,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1006-clumsy-factorial](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1006-clumsy-factorial/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |

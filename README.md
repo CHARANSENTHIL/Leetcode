@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0058-length-of-last-word](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0097-interleaving-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |

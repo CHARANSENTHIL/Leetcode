@@ -1,16 +1,36 @@
 class Solution:
     def kthSmallestPrimeFraction(self, A, K):
-        l, r, N = 0, 1, len(A)
-        while True:
-            m = (l + r) / 2
-            border = [bisect.bisect(A, A[i] / m) for i in range(N)]
-            cur = sum(N - i for i in border)
-            if cur > K:
-                r = m
-            elif cur < K:
-                l = m
+        """
+        :type A: List[int]
+        :type K: int
+        :rtype: List[int]
+        """
+        def check(mid, A, K, result):
+            tmp = [0]*2
+            count = 0
+            j = 0
+            for i in range(len(A)):
+                while j < len(A):
+                    if i < j and A[i] < A[j]*mid:
+                        if tmp[0] == 0 or \
+                           tmp[0]*A[j] < tmp[1]*A[i]:
+                            tmp[0] = A[i]
+                            tmp[1] = A[j]
+                        break
+                    j += 1
+                count += len(A)-j
+            if count == K:
+                result[:] = tmp
+            return count >= K
+
+        result = []
+        left, right = 0.0, 1.0
+        while right-left > 1e-8:
+            mid = left + (right-left) / 2.0
+            if check(mid, A, K, result):
+                right = mid
             else:
-                return max(
-                    [(A[i], A[j]) for i, j in enumerate(border) if j < N],
-                    key=lambda x: x[0] / x[1],
-                )
+                left = mid
+            if result:
+                break
+        return result

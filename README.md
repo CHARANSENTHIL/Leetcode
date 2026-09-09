@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0078-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0135-candy](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0135-candy/) | Hard |
@@ -1076,6 +1077,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0389-find-the-difference](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0477-total-hamming-distance](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0477-total-hamming-distance/) | Medium |
@@ -1239,6 +1241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0078-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0679-24-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0679-24-game/) | Hard |
 ## Meet in the Middle

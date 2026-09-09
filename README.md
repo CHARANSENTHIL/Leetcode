@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1643-kth-smallest-instructions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1643-kth-smallest-instructions/) | Hard |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
+| [1681-minimum-incompatibility](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1681-minimum-incompatibility/) | Hard |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1690-stone-game-vii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
 | [1728-cat-and-mouse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1728-cat-and-mouse-ii/) | Hard |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
+| [1681-minimum-incompatibility](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1681-minimum-incompatibility/) | Hard |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -895,6 +897,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1641-count-sorted-vowel-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1643-kth-smallest-instructions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1643-kth-smallest-instructions/) | Hard |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
+| [1681-minimum-incompatibility](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1681-minimum-incompatibility/) | Hard |
 | [1690-stone-game-vii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
 | [1728-cat-and-mouse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1728-cat-and-mouse-ii/) | Hard |
 | [1735-count-ways-to-make-array-with-product](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
@@ -1097,6 +1100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1617-count-subtrees-with-max-distance-between-cities/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
+| [1681-minimum-incompatibility](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1681-minimum-incompatibility/) | Hard |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1835-find-xor-sum-of-all-pairs-bitwise-and/) | Hard |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
@@ -1263,6 +1267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0805-split-array-with-same-average](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0805-split-array-with-same-average/) | Hard |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1617-count-subtrees-with-max-distance-between-cities/) | Hard |
+| [1681-minimum-incompatibility](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1681-minimum-incompatibility/) | Hard |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |

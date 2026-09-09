@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1037-valid-boomerang](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1040-moving-stones-until-consecutive-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -474,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1007-minimum-domino-rotations-for-equal-row/) | Medium |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1323-maximum-69-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |

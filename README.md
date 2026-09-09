@@ -680,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0508-most-frequent-subtree-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1617-count-subtrees-with-max-distance-between-cities/) | Hard |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2581-count-number-of-possible-root-nodes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2581-count-number-of-possible-root-nodes/) | Hard |
 | [3590-kth-smallest-path-xor-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3590-kth-smallest-path-xor-sum/) | Hard |
@@ -870,6 +871,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1617-count-subtrees-with-max-distance-between-cities/) | Hard |
 | [1641-count-sorted-vowel-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1643-kth-smallest-instructions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1643-kth-smallest-instructions/) | Hard |
 | [1690-stone-game-vii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
@@ -1070,6 +1072,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1617-count-subtrees-with-max-distance-between-cities/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1835-find-xor-sum-of-all-pairs-bitwise-and/) | Hard |
@@ -1231,6 +1234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0805-split-array-with-same-average](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0805-split-array-with-same-average/) | Hard |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1617-count-subtrees-with-max-distance-between-cities/) | Hard |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -1267,6 +1271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0829-consecutive-numbers-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [0869-reordered-power-of-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1617-count-subtrees-with-max-distance-between-cities/) | Hard |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |

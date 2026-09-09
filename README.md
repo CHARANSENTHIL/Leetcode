@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0472-concatenated-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0472-concatenated-words/) | Hard |
 | [0475-heaters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0475-heaters/) | Medium |
+| [0477-total-hamming-distance](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0500-keyboard-row](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0502-ipo](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
@@ -663,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0343-integer-break](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0343-integer-break/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0477-total-hamming-distance](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0519-random-flip-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0519-random-flip-matrix/) | Medium |
 | [0537-complex-number-multiplication](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0537-complex-number-multiplication/) | Medium |
@@ -935,6 +937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0089-gray-code](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0389-find-the-difference](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0477-total-hamming-distance](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0805-split-array-with-same-average](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0805-split-array-with-same-average/) | Hard |
 | [0810-chalkboard-xor-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [0832-flipping-an-image](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0832-flipping-an-image/) | Easy |

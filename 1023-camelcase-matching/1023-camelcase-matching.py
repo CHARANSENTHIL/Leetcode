@@ -1,0 +1,22 @@
+#                , l is length of query
+
+class Solution:
+    def camelMatch(self, queries, pattern):
+        """
+        :type queries: List[str]
+        :type pattern: str
+        :rtype: List[bool]
+        """
+        def is_matched(query, pattern):
+            i = 0
+            for c in query:
+                if i < len(pattern) and pattern[i] == c:
+                    i += 1
+                elif c.isupper():
+                    return False
+            return i == len(pattern)
+        
+        result = []
+        for query in queries:
+            result.append(is_matched(query, pattern))
+        return result

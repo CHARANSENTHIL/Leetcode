@@ -686,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-new-21-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0837-new-21-game/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0843-guess-the-word](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0843-guess-the-word/) | Hard |
+| [0858-mirror-reflection](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0858-mirror-reflection/) | Medium |
 | [0866-prime-palindrome](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0866-prime-palindrome/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
@@ -900,6 +901,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0593-valid-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0593-valid-square/) | Medium |
 | [0812-largest-triangle-area](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+| [0858-mirror-reflection](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0858-mirror-reflection/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1037-valid-boomerang](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |
@@ -974,6 +976,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0858-mirror-reflection](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0858-mirror-reflection/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 ## Timsort
 | Problem Name | Difficulty |
@@ -1041,6 +1044,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0858-mirror-reflection](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0858-mirror-reflection/) | Medium |
 | [0866-prime-palindrome](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0866-prime-palindrome/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1735-count-ways-to-make-array-with-product](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
@@ -1181,4 +1185,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0837-new-21-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0837-new-21-game/) | Medium |
+## Least Common Multiple
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0858-mirror-reflection](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0858-mirror-reflection/) | Medium |
 <!---LeetCode Topics End-->

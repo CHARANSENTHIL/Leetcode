@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0786-k-th-smallest-prime-fraction](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
+| [0878-nth-magical-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0878-nth-magical-number/) | Hard |
 | [0888-fair-candy-swap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -691,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0866-prime-palindrome](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0866-prime-palindrome/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0877-stone-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [0878-nth-magical-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0878-nth-magical-number/) | Hard |
 | [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0899-orderly-queue](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0899-orderly-queue/) | Hard |
 | [0910-smallest-range-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0910-smallest-range-ii/) | Medium |
@@ -1195,4 +1197,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0858-mirror-reflection](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0858-mirror-reflection/) | Medium |
+| [0878-nth-magical-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0878-nth-magical-number/) | Hard |
+## Inclusion-Exclusion Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0878-nth-magical-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0878-nth-magical-number/) | Hard |
 <!---LeetCode Topics End-->

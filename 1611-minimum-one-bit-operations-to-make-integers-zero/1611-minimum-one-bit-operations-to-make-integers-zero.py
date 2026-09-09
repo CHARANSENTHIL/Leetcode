@@ -1,5 +1,5 @@
 # reference: https://en.wikipedia.org/wiki/Gray_code
-class Solution(object):
+class Solution:
     def minimumOneBitOperations(self, n):
         """
         :type n: int

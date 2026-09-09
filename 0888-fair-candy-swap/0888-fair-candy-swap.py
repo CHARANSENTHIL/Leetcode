@@ -1,7 +1,13 @@
 class Solution:
-    def fairCandySwap(self, aliceSizes: List[int], bobSizes: List[int]) -> List[int]:
-        delta = (sum(aliceSizes) - sum(bobSizes)) // 2
-        aliceSizes = set(aliceSizes)
-        for size in set(bobSizes):
-            if delta + size in aliceSizes:
-                return [delta + size, size]
+    def fairCandySwap(self, A, B):
+        """
+        :type A: List[int]
+        :type B: List[int]
+        :rtype: List[int]
+        """
+        diff = (sum(A)-sum(B))//2
+        setA = set(A)
+        for b in set(B):
+            if diff+b in setA:
+                return [diff+b, b]
+        return []

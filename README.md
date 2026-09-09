@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2341-maximum-number-of-pairs-in-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2347-best-poker-hand/) | Easy |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2350-shortest-impossible-sequence-of-rolls/) | Hard |
+| [2352-equal-row-and-column-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2560-house-robber-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2347-best-poker-hand](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2347-best-poker-hand/) | Easy |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2350-shortest-impossible-sequence-of-rolls/) | Hard |
 | [2351-first-letter-to-appear-twice](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2561-rearranging-fruits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2561-rearranging-fruits/) | Hard |
 | [2564-substring-xor-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2564-substring-xor-queries/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -1233,6 +1235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1728-cat-and-mouse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1728-cat-and-mouse-ii/) | Hard |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -1259,6 +1262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1823-find-the-winner-of-the-circular-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2295-replace-elements-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2295-replace-elements-in-an-array/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |

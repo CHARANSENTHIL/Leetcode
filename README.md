@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [1000-minimum-cost-to-merge-stones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1001-grid-illumination](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1001-grid-illumination/) | Hard |
+| [1002-find-common-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1037-valid-boomerang](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1040-moving-stones-until-consecutive-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [1001-grid-illumination](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1001-grid-illumination/) | Hard |
+| [1002-find-common-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0899-orderly-queue](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0899-orderly-queue/) | Hard |
 | [0929-unique-email-addresses](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
+| [1002-find-common-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1366-rank-teams-by-votes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |

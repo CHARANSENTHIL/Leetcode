@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0038-count-and-say](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0038-count-and-say/) | Medium |
+| [0044-wildcard-matching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0058-length-of-last-word](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0068-text-justification](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0068-text-justification/) | Hard |
@@ -494,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0135-candy/) | Hard |
@@ -831,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0055-jump-game/) | Medium |
@@ -1170,6 +1173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0736-parse-lisp-expression](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0736-parse-lisp-expression/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |

@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-find-common-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1037-valid-boomerang](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1040-moving-stones-until-consecutive-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0878-nth-magical-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0878-nth-magical-number/) | Hard |
 | [0887-super-egg-drop](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0887-super-egg-drop/) | Hard |
 | [0888-fair-candy-swap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |

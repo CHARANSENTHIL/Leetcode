@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0389-find-the-difference](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0065-valid-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0068-text-justification](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0097-interleaving-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0389-find-the-difference](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -1045,6 +1047,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0837-new-21-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0837-new-21-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |

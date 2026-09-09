@@ -680,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0810-chalkboard-xor-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [0812-largest-triangle-area](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0829-consecutive-numbers-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0829-consecutive-numbers-sum/) | Hard |
+| [0836-rectangle-overlap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0843-guess-the-word](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0843-guess-the-word/) | Hard |
 | [0866-prime-palindrome](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0866-prime-palindrome/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
@@ -893,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0478-generate-random-point-in-a-circle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0593-valid-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0593-valid-square/) | Medium |
 | [0812-largest-triangle-area](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
+| [0836-rectangle-overlap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1037-valid-boomerang](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |

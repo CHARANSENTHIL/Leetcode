@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2564-substring-xor-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2564-substring-xor-queries/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |

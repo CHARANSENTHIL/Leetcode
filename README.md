@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-linked-list-components](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0820-short-encoding-of-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0840-magic-squares-in-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0888-fair-candy-swap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0809-expressive-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0820-short-encoding-of-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0820-short-encoding-of-words/) | Medium |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0843-guess-the-word](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0843-guess-the-word/) | Hard |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0899-orderly-queue](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0899-orderly-queue/) | Hard |
@@ -877,6 +879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0805-split-array-with-same-average](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0805-split-array-with-same-average/) | Hard |
 | [0813-largest-sum-of-averages](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0837-new-21-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0837-new-21-game/) | Medium |
 | [0877-stone-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0887-super-egg-drop](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0887-super-egg-drop/) | Hard |

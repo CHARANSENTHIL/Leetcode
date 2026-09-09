@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0843-guess-the-word](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0843-guess-the-word/) | Hard |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0867-transpose-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0877-stone-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0888-fair-candy-swap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
@@ -689,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0858-mirror-reflection](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0858-mirror-reflection/) | Medium |
 | [0866-prime-palindrome](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0866-prime-palindrome/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
+| [0877-stone-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0899-orderly-queue](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0899-orderly-queue/) | Hard |
 | [0910-smallest-range-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0910-smallest-range-ii/) | Medium |
@@ -764,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-largest-sum-of-averages](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0837-new-21-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0837-new-21-game/) | Medium |
+| [0877-stone-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
 | [1000-minimum-cost-to-merge-stones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
@@ -792,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0843-guess-the-word](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0843-guess-the-word/) | Hard |
+| [0877-stone-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1690-stone-game-vii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
 | [1728-cat-and-mouse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1728-cat-and-mouse-ii/) | Hard |
 | [1872-stone-game-viii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -818,6 +822,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0810-chalkboard-xor-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [0843-guess-the-word](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0843-guess-the-word/) | Hard |
+| [0877-stone-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1690-stone-game-vii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
 | [1728-cat-and-mouse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1728-cat-and-mouse-ii/) | Hard |
 | [1872-stone-game-viii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -826,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0810-chalkboard-xor-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0810-chalkboard-xor-game/) | Hard |
+| [0877-stone-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1690-stone-game-vii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
 | [1728-cat-and-mouse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1728-cat-and-mouse-ii/) | Hard |
 | [1872-stone-game-viii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1872-stone-game-viii/) | Hard |

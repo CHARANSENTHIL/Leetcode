@@ -392,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2129-capitalize-the-title](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2129-capitalize-the-title/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2564-substring-xor-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2564-substring-xor-queries/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -1135,6 +1136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1688-count-of-matches-in-tournament](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |

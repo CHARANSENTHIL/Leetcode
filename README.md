@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-naming-a-company](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2306-naming-a-company/) | Hard |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2347-best-poker-hand/) | Easy |
+| [2350-shortest-impossible-sequence-of-rolls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2350-shortest-impossible-sequence-of-rolls/) | Hard |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2560-house-robber-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2325-decode-the-message](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2347-best-poker-hand/) | Easy |
+| [2350-shortest-impossible-sequence-of-rolls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2350-shortest-impossible-sequence-of-rolls/) | Hard |
 | [2561-rearranging-fruits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2561-rearranging-fruits/) | Hard |
 | [2564-substring-xor-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2564-substring-xor-queries/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -602,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
+| [2350-shortest-impossible-sequence-of-rolls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2350-shortest-impossible-sequence-of-rolls/) | Hard |
 | [2560-house-robber-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2561-rearranging-fruits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2561-rearranging-fruits/) | Hard |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |

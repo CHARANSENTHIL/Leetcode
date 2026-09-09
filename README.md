@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1020-number-of-enclaves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1023-camelcase-matching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
+| [1024-video-stitching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1037-valid-boomerang](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1040-moving-stones-until-consecutive-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
+| [1024-video-stitching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1323-maximum-69-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
@@ -807,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0887-super-egg-drop](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0887-super-egg-drop/) | Hard |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
 | [1000-minimum-cost-to-merge-stones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
+| [1024-video-stitching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1363-largest-multiple-of-three](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1402-reducing-dishes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1402-reducing-dishes/) | Hard |

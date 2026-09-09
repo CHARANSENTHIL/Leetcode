@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2902-count-of-sub-multisets-with-bounded-sum/) | Hard |
 | [2932-maximum-strong-pair-xor-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2932-maximum-strong-pair-xor-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 | [2953-count-complete-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2953-count-complete-substrings/) | Hard |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3583-count-special-triplets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3583-count-special-triplets/) | Medium |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |
@@ -1204,6 +1206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2932-maximum-strong-pair-xor-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 | [2953-count-complete-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2953-count-complete-substrings/) | Hard |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
 ## Bit Manipulation

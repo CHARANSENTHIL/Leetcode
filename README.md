@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -702,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0050-powx-n](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0089-gray-code](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0343-integer-break](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0343-integer-break/) | Medium |

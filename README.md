@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2295-replace-elements-in-an-array/) | Medium |
+| [2306-naming-a-company](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2306-naming-a-company/) | Hard |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2560-house-robber-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2284-sender-with-largest-word-count](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2295-replace-elements-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2295-replace-elements-in-an-array/) | Medium |
+| [2306-naming-a-company](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2306-naming-a-company/) | Hard |
 | [2561-rearranging-fruits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2561-rearranging-fruits/) | Hard |
 | [2564-substring-xor-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2564-substring-xor-queries/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
+| [2306-naming-a-company](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2306-naming-a-company/) | Hard |
 | [2559-count-vowel-strings-in-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2564-substring-xor-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2564-substring-xor-queries/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -1154,6 +1157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1835-find-xor-sum-of-all-pairs-bitwise-and/) | Hard |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
+| [2306-naming-a-company](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2306-naming-a-company/) | Hard |
 | [2564-substring-xor-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2564-substring-xor-queries/) | Medium |
 | [2568-minimum-impossible-or](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2568-minimum-impossible-or/) | Medium |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
@@ -1359,6 +1363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0869-reordered-power-of-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1617-count-subtrees-with-max-distance-between-cities/) | Hard |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
+| [2306-naming-a-company](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2306-naming-a-company/) | Hard |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |

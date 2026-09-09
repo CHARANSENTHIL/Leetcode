@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2295-replace-elements-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2306-naming-a-company](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2306-naming-a-company/) | Hard |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2347-best-poker-hand](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2347-best-poker-hand/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2560-house-robber-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-naming-a-company](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2306-naming-a-company/) | Hard |
 | [2325-decode-the-message](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2347-best-poker-hand](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2347-best-poker-hand/) | Easy |
 | [2561-rearranging-fruits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2561-rearranging-fruits/) | Hard |
 | [2564-substring-xor-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2564-substring-xor-queries/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -1073,6 +1075,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2284-sender-with-largest-word-count](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2347-best-poker-hand](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2347-best-poker-hand/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3583-count-special-triplets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3583-count-special-triplets/) | Medium |

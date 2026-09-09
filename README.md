@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1020-number-of-enclaves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1023-camelcase-matching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 | [1037-valid-boomerang](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1040-moving-stones-until-consecutive-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0899-orderly-queue](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0899-orderly-queue/) | Hard |
 | [0929-unique-email-addresses](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1002-find-common-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1002-find-common-characters/) | Easy |
+| [1023-camelcase-matching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1366-rank-teams-by-votes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
@@ -651,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0648-replace-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0648-replace-words/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0820-short-encoding-of-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0820-short-encoding-of-words/) | Medium |
+| [1023-camelcase-matching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -675,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0881-boats-to-save-people](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [1023-camelcase-matching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -1240,4 +1244,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0878-nth-magical-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0878-nth-magical-number/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1023-camelcase-matching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 <!---LeetCode Topics End-->

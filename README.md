@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2284-sender-with-largest-word-count/) | Medium |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2561-rearranging-fruits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2561-rearranging-fruits/) | Hard |
 | [2564-substring-xor-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2564-substring-xor-queries/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2284-sender-with-largest-word-count/) | Medium |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2564-substring-xor-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2564-substring-xor-queries/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -1060,6 +1062,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2284-sender-with-largest-word-count](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2284-sender-with-largest-word-count/) | Medium |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3583-count-special-triplets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3583-count-special-triplets/) | Medium |

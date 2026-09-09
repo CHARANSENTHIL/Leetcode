@@ -416,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
+| [0022-generate-parentheses](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0038-count-and-say/) | Medium |
@@ -960,6 +961,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
@@ -1356,6 +1358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
@@ -1401,6 +1404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0046-permutations/) | Medium |

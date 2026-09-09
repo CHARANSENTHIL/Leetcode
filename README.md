@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0068-text-justification](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0135-candy](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0135-candy/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0321-create-maximum-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0341-flatten-nested-list-iterator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0402-remove-k-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
@@ -519,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0321-create-maximum-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0402-remove-k-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
@@ -1251,4 +1254,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1023-camelcase-matching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->

@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2103-rings-and-rods](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2103-rings-and-rods/) | Easy |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2561-rearranging-fruits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2561-rearranging-fruits/) | Hard |
 | [2564-substring-xor-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2564-substring-xor-queries/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2129-capitalize-the-title](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2129-capitalize-the-title/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2564-substring-xor-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2564-substring-xor-queries/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -634,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1840-maximum-building-height](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2561-rearranging-fruits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2561-rearranging-fruits/) | Hard |
 | [2563-count-the-number-of-fair-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
@@ -1050,6 +1054,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1835-find-xor-sum-of-all-pairs-bitwise-and/) | Hard |
+| [2135-count-words-obtained-after-adding-a-letter](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2564-substring-xor-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2564-substring-xor-queries/) | Medium |
 | [2568-minimum-impossible-or](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2568-minimum-impossible-or/) | Medium |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |

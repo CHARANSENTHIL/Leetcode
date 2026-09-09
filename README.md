@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0833-find-and-replace-in-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0843-guess-the-word](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0843-guess-the-word/) | Hard |
+| [0846-hand-of-straights](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0867-transpose-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0833-find-and-replace-in-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0840-magic-squares-in-grid/) | Medium |
+| [0846-hand-of-straights](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0888-fair-candy-swap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
@@ -536,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0769-max-chunks-to-make-sorted](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
+| [0846-hand-of-straights](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0881-boats-to-save-people](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0910-smallest-range-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0910-smallest-range-ii/) | Medium |
@@ -623,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0823-binary-trees-with-factors](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0833-find-and-replace-in-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0833-find-and-replace-in-string/) | Medium |
+| [0846-hand-of-straights](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0869-reordered-power-of-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0881-boats-to-save-people](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |

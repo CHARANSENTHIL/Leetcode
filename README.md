@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0823-binary-trees-with-factors](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0832-flipping-an-image](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0840-magic-squares-in-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0843-guess-the-word](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0843-guess-the-word/) | Hard |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0867-transpose-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-linked-list-components](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0820-short-encoding-of-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
+| [0840-magic-squares-in-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
 | [0888-fair-candy-swap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
@@ -682,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0829-consecutive-numbers-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [0836-rectangle-overlap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0837-new-21-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0837-new-21-game/) | Medium |
+| [0840-magic-squares-in-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0843-guess-the-word](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0843-guess-the-word/) | Hard |
 | [0866-prime-palindrome](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0866-prime-palindrome/) | Medium |
 | [0869-reordered-power-of-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
@@ -1004,6 +1007,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-valid-tic-tac-toe-state](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0832-flipping-an-image](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0840-magic-squares-in-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0867-transpose-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1728-cat-and-mouse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1728-cat-and-mouse-ii/) | Hard |

@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2103-rings-and-rods](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2103-rings-and-rods/) | Easy |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2561-rearranging-fruits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2561-rearranging-fruits/) | Hard |
 | [2564-substring-xor-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2564-substring-xor-queries/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2103-rings-and-rods](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2103-rings-and-rods/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2564-substring-xor-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2564-substring-xor-queries/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -431,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1728-cat-and-mouse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1728-cat-and-mouse-ii/) | Hard |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -1248,6 +1252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1728-cat-and-mouse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1728-cat-and-mouse-ii/) | Hard |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1285,4 +1290,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 <!---LeetCode Topics End-->

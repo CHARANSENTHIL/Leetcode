@@ -799,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1363-largest-multiple-of-three](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1573-number-of-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1643-kth-smallest-instructions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1643-kth-smallest-instructions/) | Hard |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
@@ -872,6 +873,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1617-count-subtrees-with-max-distance-between-cities/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1643-kth-smallest-instructions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1643-kth-smallest-instructions/) | Hard |
 | [1690-stone-game-vii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
@@ -905,6 +907,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0798-smallest-rotation-with-highest-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0798-smallest-rotation-with-highest-score/) | Hard |
 | [0813-largest-sum-of-averages](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [1000-minimum-cost-to-merge-stones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1856-maximum-subarray-min-product](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1856-maximum-subarray-min-product/) | Medium |
@@ -1258,6 +1261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1641-count-sorted-vowel-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1643-kth-smallest-instructions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1643-kth-smallest-instructions/) | Hard |
 | [1735-count-ways-to-make-array-with-product](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |

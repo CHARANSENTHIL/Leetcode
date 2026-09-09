@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0047-permutations-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0055-jump-game/) | Medium |
@@ -509,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0389-find-the-difference](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
@@ -1116,6 +1118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0047-permutations-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0089-gray-code](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0679-24-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0679-24-game/) | Hard |
 ## Meet in the Middle

@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0524-longest-word-in-dictionary-through-deleting/) | Medium |
 | [0553-optimal-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0553-optimal-division/) | Medium |
 | [0575-distribute-candies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0575-distribute-candies/) | Easy |
+| [0598-range-addition-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0598-range-addition-ii/) | Easy |
 | [0648-replace-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0648-replace-words/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
@@ -888,6 +889,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0553-optimal-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0553-optimal-division/) | Medium |
 | [0564-find-the-closest-palindrome](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0593-valid-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0593-valid-square/) | Medium |
+| [0598-range-addition-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0598-range-addition-ii/) | Easy |
 | [0670-maximum-swap](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [0679-24-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0679-24-game/) | Hard |
 | [0728-self-dividing-numbers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |

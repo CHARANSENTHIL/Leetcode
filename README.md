@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0553-optimal-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0553-optimal-division/) | Medium |
 | [0575-distribute-candies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0598-range-addition-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0598-range-addition-ii/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0648-replace-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0648-replace-words/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0519-random-flip-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0519-random-flip-matrix/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0575-distribute-candies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0575-distribute-candies/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0648-replace-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0648-replace-words/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0736-parse-lisp-expression](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0736-parse-lisp-expression/) | Hard |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0537-complex-number-multiplication](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0564-find-the-closest-palindrome](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0591-tag-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0591-tag-validator/) | Hard |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0648-replace-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0648-replace-words/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0736-parse-lisp-expression](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0736-parse-lisp-expression/) | Hard |

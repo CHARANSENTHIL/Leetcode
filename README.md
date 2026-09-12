@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 | [2818-apply-operations-to-maximize-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2818-apply-operations-to-maximize-score/) | Hard |
 | [2831-find-the-longest-equal-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
+| [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2835-minimum-operations-to-form-subsequence-with-target-sum/) | Hard |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2875-minimum-size-subarray-in-infinite-array/) | Medium |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2902-count-of-sub-multisets-with-bounded-sum/) | Hard |
@@ -841,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 | [2818-apply-operations-to-maximize-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2818-apply-operations-to-maximize-score/) | Hard |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2829-determine-the-minimum-sum-of-a-k-avoiding-array/) | Medium |
+| [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2835-minimum-operations-to-form-subsequence-with-target-sum/) | Hard |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -1639,6 +1641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2572-count-the-number-of-square-free-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+| [2835-minimum-operations-to-form-subsequence-with-target-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2835-minimum-operations-to-form-subsequence-with-target-sum/) | Hard |
 | [2932-maximum-strong-pair-xor-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 | [3011-find-if-array-can-be-sorted](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3011-find-if-array-can-be-sorted/) | Medium |

@@ -506,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1487-making-file-names-unique](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1487-making-file-names-unique/) | Medium |
 | [1496-path-crossing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1496-path-crossing/) | Easy |
+| [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1573-number-of-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
@@ -683,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1433-check-if-a-string-can-break-another-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+| [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
@@ -1173,11 +1175,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
 | [2569-handling-sum-queries-after-update](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2569-handling-sum-queries-after-update/) | Hard |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3762-minimum-operations-to-equalize-subarrays/) | Hard |
 ## Merge Sort

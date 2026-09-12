@@ -640,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2781-length-of-the-longest-valid-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2781-length-of-the-longest-valid-substring/) | Hard |
 | [2785-sort-vowels-in-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2800-shortest-string-that-contains-three-strings/) | Medium |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2953-count-complete-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2953-count-complete-substrings/) | Hard |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
@@ -834,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-shortest-string-that-contains-three-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2800-shortest-string-that-contains-three-strings/) | Medium |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2811-check-if-it-is-possible-to-split-array/) | Medium |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
@@ -1230,6 +1232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2681-power-of-heroes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2681-power-of-heroes/) | Hard |
 | [2745-construct-the-longest-new-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2790-maximum-number-of-groups-with-increasing-length/) | Hard |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
@@ -1874,6 +1877,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-naming-a-company](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2306-naming-a-company/) | Hard |
 | [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2800-shortest-string-that-contains-three-strings/) | Medium |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3027-find-the-number-of-ways-to-place-people-ii/) | Hard |

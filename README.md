@@ -975,6 +975,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -1410,6 +1411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |

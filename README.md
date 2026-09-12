@@ -1018,6 +1018,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3762-minimum-operations-to-equalize-subarrays/) | Hard |
 | [3765-complete-prime-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3765-complete-prime-number/) | Medium |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3782-last-remaining-integer-after-alternating-deletion-operations/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3993-maximum-value-of-an-alternating-sequence/) | Medium |
 ## Dynamic Programming
@@ -1451,6 +1452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1823-find-the-winner-of-the-circular-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2550-count-collisions-of-monkeys-on-a-polygon/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3782-last-remaining-integer-after-alternating-deletion-operations/) | Hard |
 ## Cartesian Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

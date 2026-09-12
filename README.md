@@ -1019,6 +1019,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3765-complete-prime-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3765-complete-prime-number/) | Medium |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3782-last-remaining-integer-after-alternating-deletion-operations/) | Hard |
+| [3783-mirror-distance-of-an-integer](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3993-maximum-value-of-an-alternating-sequence/) | Medium |
 ## Dynamic Programming

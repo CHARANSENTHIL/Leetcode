@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3762-minimum-operations-to-equalize-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3762-minimum-operations-to-equalize-subarrays/) | Hard |
 | [3769-sort-integers-by-binary-reflection](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2968-apply-operations-to-maximize-frequency-score/) | Hard |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
+| [3762-minimum-operations-to-equalize-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3762-minimum-operations-to-equalize-subarrays/) | Hard |
 | [3920-maximize-fixed-points-after-deletions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3920-maximize-fixed-points-after-deletions/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -812,6 +814,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
+| [3762-minimum-operations-to-equalize-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3762-minimum-operations-to-equalize-subarrays/) | Hard |
 | [3769-sort-integers-by-binary-reflection](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -1011,6 +1014,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3762-minimum-operations-to-equalize-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3762-minimum-operations-to-equalize-subarrays/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3993-maximum-value-of-an-alternating-sequence/) | Medium |
 ## Dynamic Programming
@@ -1144,6 +1148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [2569-handling-sum-queries-after-update](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2569-handling-sum-queries-after-update/) | Hard |
+| [3762-minimum-operations-to-equalize-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3762-minimum-operations-to-equalize-subarrays/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

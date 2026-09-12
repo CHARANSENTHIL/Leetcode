@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2780-minimum-index-of-a-valid-split](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2781-length-of-the-longest-valid-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2781-length-of-the-longest-valid-substring/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2790-maximum-number-of-groups-with-increasing-length/) | Hard |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2811-check-if-it-is-possible-to-split-array/) | Medium |
@@ -831,6 +832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2712-minimum-cost-to-make-all-characters-equal/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2789-largest-element-in-an-array-after-merge-operations/) | Medium |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2790-maximum-number-of-groups-with-increasing-length/) | Hard |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2800-shortest-string-that-contains-three-strings/) | Medium |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2811-check-if-it-is-possible-to-split-array/) | Medium |

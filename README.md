@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
@@ -812,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3362-zero-array-transformation-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3362-zero-array-transformation-iii/) | Medium |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
@@ -964,6 +966,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
@@ -1011,6 +1014,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1617-count-subtrees-with-max-distance-between-cities/) | Hard |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2581-count-number-of-possible-root-nodes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2581-count-number-of-possible-root-nodes/) | Hard |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3590-kth-smallest-path-xor-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3590-kth-smallest-path-xor-sum/) | Hard |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
@@ -1289,6 +1293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2902-count-of-sub-multisets-with-bounded-sum/) | Hard |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
@@ -1578,6 +1583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2932-maximum-strong-pair-xor-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 | [3011-find-if-array-can-be-sorted](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |

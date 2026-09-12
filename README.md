@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2790-maximum-number-of-groups-with-increasing-length/) | Hard |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2811-check-if-it-is-possible-to-split-array/) | Medium |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 | [2831-find-the-longest-equal-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2875-minimum-size-subarray-in-infinite-array/) | Medium |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2781-length-of-the-longest-valid-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2781-length-of-the-longest-valid-substring/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 | [2831-find-the-longest-equal-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2875-minimum-size-subarray-in-infinite-array/) | Medium |
@@ -751,6 +753,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2736-maximum-sum-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2736-maximum-sum-queries/) | Hard |
 | [2751-robot-collisions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2751-robot-collisions/) | Hard |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Greedy
@@ -830,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2790-maximum-number-of-groups-with-increasing-length/) | Hard |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2800-shortest-string-that-contains-three-strings/) | Medium |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2811-check-if-it-is-possible-to-split-array/) | Medium |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
@@ -980,6 +984,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2790-maximum-number-of-groups-with-increasing-length/) | Hard |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2968-apply-operations-to-maximize-frequency-score/) | Hard |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
@@ -1529,6 +1534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [2679-sum-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2762-continuous-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
+| [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
 | [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3362-zero-array-transformation-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3362-zero-array-transformation-iii/) | Medium |

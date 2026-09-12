@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3027-find-the-number-of-ways-to-place-people-ii/) | Hard |
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
@@ -962,6 +963,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3027-find-the-number-of-ways-to-place-people-ii/) | Hard |
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
@@ -1286,6 +1288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2902-count-of-sub-multisets-with-bounded-sum/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |

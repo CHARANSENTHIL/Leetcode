@@ -1007,6 +1007,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3993-maximum-value-of-an-alternating-sequence/) | Medium |
 ## Dynamic Programming
@@ -1078,6 +1079,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3592-inverse-coin-change](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3592-inverse-coin-change/) | Medium |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3883-count-non-decreasing-arrays-with-given-digit-sums/) | Hard |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3891-minimum-increase-to-maximize-special-indices/) | Medium |
 ## Minimax

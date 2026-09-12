@@ -636,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2712-minimum-cost-to-make-all-characters-equal/) | Medium |
 | [2781-length-of-the-longest-valid-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2781-length-of-the-longest-valid-substring/) | Hard |
 | [2785-sort-vowels-in-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
+| [2800-shortest-string-that-contains-three-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2800-shortest-string-that-contains-three-strings/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2953-count-complete-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2953-count-complete-substrings/) | Hard |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
@@ -826,6 +827,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2712-minimum-cost-to-make-all-characters-equal/) | Medium |
 | [2745-construct-the-longest-new-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2790-maximum-number-of-groups-with-increasing-length/) | Hard |
+| [2800-shortest-string-that-contains-three-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2800-shortest-string-that-contains-three-strings/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
@@ -1862,6 +1864,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [2306-naming-a-company](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2306-naming-a-company/) | Hard |
 | [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+| [2800-shortest-string-that-contains-three-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2800-shortest-string-that-contains-three-strings/) | Medium |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3027-find-the-number-of-ways-to-place-people-ii/) | Hard |

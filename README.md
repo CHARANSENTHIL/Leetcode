@@ -536,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1745-palindrome-partitioning-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1745-palindrome-partitioning-iv/) | Hard |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |

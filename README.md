@@ -470,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0097-interleaving-string/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0389-find-the-difference](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0399-evaluate-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0399-evaluate-division/) | Medium |
@@ -984,6 +985,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0089-gray-code](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0171-excel-sheet-column-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0343-integer-break](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0343-integer-break/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0477-total-hamming-distance](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0477-total-hamming-distance/) | Medium |

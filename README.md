@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [2601-prime-subtraction-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2601-prime-subtraction-operation/) | Medium |
 | [2607-make-k-subarray-sums-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2762-continuous-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
@@ -898,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2607-make-k-subarray-sums-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
@@ -1405,6 +1407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1776-car-fleet-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
+| [2679-sum-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2762-continuous-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 | [3362-zero-array-transformation-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3362-zero-array-transformation-iii/) | Medium |
 ## DP on Trees
@@ -1559,6 +1562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2352-equal-row-and-column-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
+| [2679-sum-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -1588,6 +1592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2549-count-distinct-numbers-on-board](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2582-pass-the-pillow](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2582-pass-the-pillow/) | Easy |
+| [2679-sum-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3433-count-mentions-per-user](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3433-count-mentions-per-user/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |

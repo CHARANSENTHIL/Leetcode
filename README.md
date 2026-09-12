@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2762-continuous-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 | [2766-relocate-marbles](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2766-relocate-marbles/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
+| [2780-minimum-index-of-a-valid-split](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2781-length-of-the-longest-valid-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2781-length-of-the-longest-valid-substring/) | Hard |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2831-find-the-longest-equal-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2766-relocate-marbles](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2766-relocate-marbles/) | Medium |
+| [2780-minimum-index-of-a-valid-split](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2781-length-of-the-longest-valid-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2781-length-of-the-longest-valid-substring/) | Hard |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2831-find-the-longest-equal-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
@@ -926,6 +928,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-robot-collisions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2766-relocate-marbles](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2766-relocate-marbles/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
+| [2780-minimum-index-of-a-valid-split](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2780-minimum-index-of-a-valid-split/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2968-apply-operations-to-maximize-frequency-score/) | Hard |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |

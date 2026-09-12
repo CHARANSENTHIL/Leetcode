@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3027-find-the-number-of-ways-to-place-people-ii/) | Hard |
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
+| [3039-apply-operations-to-make-string-empty](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
+| [3039-apply-operations-to-make-string-empty](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3365-rearrange-k-substrings-to-form-target-string/) | Medium |
 | [3458-select-k-disjoint-special-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3458-select-k-disjoint-special-substrings/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -959,6 +961,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3027-find-the-number-of-ways-to-place-people-ii/) | Hard |
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
+| [3039-apply-operations-to-make-string-empty](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
@@ -1434,6 +1437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
+| [3039-apply-operations-to-make-string-empty](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3583-count-special-triplets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3583-count-special-triplets/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |

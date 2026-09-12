@@ -1,0 +1,14 @@
+# greedy
+class Solution:
+    def maxArrayValue(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        result = curr = 0
+        for i in reversed(range(len(nums))):
+            if nums[i] > curr:
+                curr = 0
+            curr += nums[i]
+            result = max(result, curr)
+        return result

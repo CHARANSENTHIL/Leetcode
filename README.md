@@ -666,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2578-split-with-minimum-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
+| [2591-distribute-money-to-maximum-children](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3576-transform-array-to-all-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3576-transform-array-to-all-equal-elements/) | Medium |
@@ -970,6 +971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2579-count-total-number-of-colored-cells](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2579-count-total-number-of-colored-cells/) | Medium |
 | [2582-pass-the-pillow](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2582-pass-the-pillow/) | Easy |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2584-split-the-array-to-make-coprime-products/) | Hard |
+| [2591-distribute-money-to-maximum-children](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |

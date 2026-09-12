@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2790-maximum-number-of-groups-with-increasing-length/) | Hard |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2811-check-if-it-is-possible-to-split-array/) | Medium |
 | [2831-find-the-longest-equal-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2875-minimum-size-subarray-in-infinite-array/) | Medium |
@@ -828,6 +829,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2745-construct-the-longest-new-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2790-maximum-number-of-groups-with-increasing-length/) | Hard |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2800-shortest-string-that-contains-three-strings/) | Medium |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2811-check-if-it-is-possible-to-split-array/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
@@ -1324,6 +1326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2712-minimum-cost-to-make-all-characters-equal/) | Medium |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2745-construct-the-longest-new-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
+| [2811-check-if-it-is-possible-to-split-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2811-check-if-it-is-possible-to-split-array/) | Medium |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2902-count-of-sub-multisets-with-bounded-sum/) | Hard |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |

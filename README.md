@@ -527,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 | [1678-goal-parser-interpretation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
+| [1702-maximum-binary-string-after-change](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1702-maximum-binary-string-after-change/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
@@ -706,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1529-minimum-suffix-flips](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1529-minimum-suffix-flips/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
+| [1702-maximum-binary-string-after-change](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1702-maximum-binary-string-after-change/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |

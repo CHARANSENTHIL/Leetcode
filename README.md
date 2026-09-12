@@ -659,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2350-shortest-impossible-sequence-of-rolls/) | Hard |
 | [2560-house-robber-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2561-rearranging-fruits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2561-rearranging-fruits/) | Hard |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
@@ -960,6 +961,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2543-check-if-point-is-reachable](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2543-check-if-point-is-reachable/) | Hard |
 | [2549-count-distinct-numbers-on-board](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2550-count-collisions-of-monkeys-on-a-polygon/) | Medium |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2584-split-the-array-to-make-coprime-products/) | Hard |

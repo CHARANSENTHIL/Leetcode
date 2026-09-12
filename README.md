@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
+| [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2762-continuous-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-count-number-of-possible-root-nodes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2581-count-number-of-possible-root-nodes/) | Hard |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2584-split-the-array-to-make-coprime-products/) | Hard |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2781-length-of-the-longest-valid-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2781-length-of-the-longest-valid-substring/) | Hard |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
@@ -780,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2580-count-ways-to-group-overlapping-ranges/) | Medium |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
+| [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
@@ -972,6 +975,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2582-pass-the-pillow](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2582-pass-the-pillow/) | Easy |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2584-split-the-array-to-make-coprime-products/) | Hard |
 | [2591-distribute-money-to-maximum-children](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
+| [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
@@ -1042,6 +1046,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2581-count-number-of-possible-root-nodes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2581-count-number-of-possible-root-nodes/) | Hard |
 | [2585-number-of-ways-to-earn-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2585-number-of-ways-to-earn-points/) | Hard |
+| [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2902-count-of-sub-multisets-with-bounded-sum/) | Hard |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
@@ -1443,6 +1448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0679-24-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0679-24-game/) | Hard |
+| [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Meet in the Middle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1481,6 +1487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1641-count-sorted-vowel-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1643-kth-smallest-instructions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1643-kth-smallest-instructions/) | Hard |
 | [1735-count-ways-to-make-array-with-product](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
+| [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |

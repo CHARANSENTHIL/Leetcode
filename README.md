@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [2601-prime-subtraction-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2601-prime-subtraction-operation/) | Medium |
+| [2607-make-k-subarray-sums-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2762-continuous-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
@@ -676,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [2600-k-items-with-the-maximum-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2601-prime-subtraction-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2601-prime-subtraction-operation/) | Medium |
+| [2607-make-k-subarray-sums-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3576-transform-array-to-all-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3576-transform-array-to-all-equal-elements/) | Medium |
@@ -790,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [2607-make-k-subarray-sums-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
@@ -986,6 +989,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [2600-k-items-with-the-maximum-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2601-prime-subtraction-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2601-prime-subtraction-operation/) | Medium |
+| [2607-make-k-subarray-sums-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
@@ -1397,6 +1401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2572-count-the-number-of-square-free-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2584-split-the-array-to-make-coprime-products/) | Hard |
 | [2601-prime-subtraction-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2601-prime-subtraction-operation/) | Medium |
+| [2607-make-k-subarray-sums-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |

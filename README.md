@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2679-sum-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2681-power-of-heroes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2681-power-of-heroes/) | Hard |
 | [2706-buy-two-chocolates](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2762-continuous-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
@@ -777,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2601-prime-subtraction-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2601-prime-subtraction-operation/) | Medium |
 | [2607-make-k-subarray-sums-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3362-zero-array-transformation-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3362-zero-array-transformation-iii/) | Medium |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
@@ -905,6 +907,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2679-sum-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2681-power-of-heroes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2681-power-of-heroes/) | Hard |
 | [2706-buy-two-chocolates](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
@@ -1229,6 +1232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2585-number-of-ways-to-earn-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2585-number-of-ways-to-earn-points/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2681-power-of-heroes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2681-power-of-heroes/) | Hard |
+| [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2902-count-of-sub-multisets-with-bounded-sum/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -1504,6 +1508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2568-minimum-impossible-or](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2568-minimum-impossible-or/) | Medium |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
+| [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
@@ -1687,6 +1692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0679-24-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0679-24-game/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 ## Meet in the Middle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1740,6 +1746,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1617-count-subtrees-with-max-distance-between-cities/) | Hard |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [2306-naming-a-company](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2306-naming-a-company/) | Hard |
+| [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3380-maximum-area-rectangle-with-point-constraints-i/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |

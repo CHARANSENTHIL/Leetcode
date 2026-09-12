@@ -840,6 +840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2811-check-if-it-is-possible-to-split-array/) | Medium |
 | [2813-maximum-elegance-of-a-k-length-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2813-maximum-elegance-of-a-k-length-subsequence/) | Hard |
 | [2818-apply-operations-to-maximize-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2818-apply-operations-to-maximize-score/) | Hard |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2829-determine-the-minimum-sum-of-a-k-avoiding-array/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -1240,6 +1241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2745-construct-the-longest-new-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2790-maximum-number-of-groups-with-increasing-length/) | Hard |
 | [2818-apply-operations-to-maximize-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2818-apply-operations-to-maximize-score/) | Hard |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2829-determine-the-minimum-sum-of-a-k-avoiding-array/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |

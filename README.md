@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2731-movement-of-robots](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2731-movement-of-robots/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [2736-maximum-sum-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2736-maximum-sum-queries/) | Hard |
 | [2740-find-the-value-of-the-partition](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2740-find-the-value-of-the-partition/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2751-robot-collisions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2751-robot-collisions/) | Hard |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2601-prime-subtraction-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2601-prime-subtraction-operation/) | Medium |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
+| [2736-maximum-sum-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2736-maximum-sum-queries/) | Hard |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2831-find-the-longest-equal-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
@@ -720,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
+| [2736-maximum-sum-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2736-maximum-sum-queries/) | Hard |
 | [2751-robot-collisions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
@@ -824,6 +827,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1776-car-fleet-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
 | [1856-maximum-subarray-min-product](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1856-maximum-subarray-min-product/) | Medium |
+| [2736-maximum-sum-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2736-maximum-sum-queries/) | Hard |
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
@@ -926,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2731-movement-of-robots](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2731-movement-of-robots/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [2736-maximum-sum-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2736-maximum-sum-queries/) | Hard |
 | [2740-find-the-value-of-the-partition](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2740-find-the-value-of-the-partition/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2751-robot-collisions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2751-robot-collisions/) | Hard |
@@ -1335,6 +1340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
+| [2736-maximum-sum-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2736-maximum-sum-queries/) | Hard |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3380-maximum-area-rectangle-with-point-constraints-i/) | Medium |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3382-maximum-area-rectangle-with-point-constraints-ii/) | Hard |
 ## Segment Tree
@@ -1344,6 +1350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
 | [2569-handling-sum-queries-after-update](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2569-handling-sum-queries-after-update/) | Hard |
+| [2736-maximum-sum-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2736-maximum-sum-queries/) | Hard |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3380-maximum-area-rectangle-with-point-constraints-i/) | Medium |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3382-maximum-area-rectangle-with-point-constraints-ii/) | Hard |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3762-minimum-operations-to-equalize-subarrays/) | Hard |

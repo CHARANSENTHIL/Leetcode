@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-robot-collisions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2762-continuous-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
+| [2766-relocate-marbles](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2766-relocate-marbles/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2781-length-of-the-longest-valid-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2781-length-of-the-longest-valid-substring/) | Hard |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
@@ -409,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
+| [2766-relocate-marbles](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2766-relocate-marbles/) | Medium |
 | [2781-length-of-the-longest-valid-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2781-length-of-the-longest-valid-substring/) | Hard |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2831-find-the-longest-equal-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
@@ -922,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2740-find-the-value-of-the-partition](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2740-find-the-value-of-the-partition/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2751-robot-collisions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2751-robot-collisions/) | Hard |
+| [2766-relocate-marbles](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2766-relocate-marbles/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2968-apply-operations-to-maximize-frequency-score/) | Hard |
@@ -1625,6 +1628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2582-pass-the-pillow](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2582-pass-the-pillow/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2751-robot-collisions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2751-robot-collisions/) | Hard |
+| [2766-relocate-marbles](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2766-relocate-marbles/) | Medium |
 | [3433-count-mentions-per-user](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3433-count-mentions-per-user/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |

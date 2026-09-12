@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
+| [3433-count-mentions-per-user](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3433-count-mentions-per-user/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
@@ -910,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
+| [3433-count-mentions-per-user](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3433-count-mentions-per-user/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
@@ -1119,6 +1121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3380-maximum-area-rectangle-with-point-constraints-i/) | Medium |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3382-maximum-area-rectangle-with-point-constraints-ii/) | Hard |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
+| [3433-count-mentions-per-user](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3433-count-mentions-per-user/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
@@ -1572,6 +1575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2549-count-distinct-numbers-on-board](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2582-pass-the-pillow](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2582-pass-the-pillow/) | Easy |
+| [3433-count-mentions-per-user](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3433-count-mentions-per-user/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory

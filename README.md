@@ -694,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3891-minimum-increase-to-maximize-special-indices/) | Medium |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3993-maximum-value-of-an-alternating-sequence/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
@@ -1020,6 +1021,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3782-last-remaining-integer-after-alternating-deletion-operations/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3993-maximum-value-of-an-alternating-sequence/) | Medium |
 ## Dynamic Programming

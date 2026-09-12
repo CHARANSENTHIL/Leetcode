@@ -537,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1759-count-number-of-homogenous-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
@@ -1035,6 +1036,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1728-cat-and-mouse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1728-cat-and-mouse-ii/) | Hard |
 | [1735-count-ways-to-make-array-with-product](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1735-count-ways-to-make-array-with-product/) | Hard |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+| [1759-count-number-of-homogenous-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1776-car-fleet-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |

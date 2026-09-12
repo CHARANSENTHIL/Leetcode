@@ -386,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3790-smallest-all-ones-multiple](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3790-smallest-all-ones-multiple/) | Medium |
 | [3889-mirror-frequency-distance](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3889-mirror-frequency-distance/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Binary Search
@@ -1022,6 +1023,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3782-last-remaining-integer-after-alternating-deletion-operations/) | Hard |
 | [3783-mirror-distance-of-an-integer](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3790-smallest-all-ones-multiple](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3790-smallest-all-ones-multiple/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3993-maximum-value-of-an-alternating-sequence/) | Medium |
 ## Dynamic Programming

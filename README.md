@@ -968,6 +968,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2578-split-with-minimum-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2579-count-total-number-of-colored-cells](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2579-count-total-number-of-colored-cells/) | Medium |
+| [2582-pass-the-pillow](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2582-pass-the-pillow/) | Easy |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2584-split-the-array-to-make-coprime-products/) | Hard |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
@@ -1365,6 +1366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2352-equal-row-and-column-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2549-count-distinct-numbers-on-board](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2582-pass-the-pillow](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2582-pass-the-pillow/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory

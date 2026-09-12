@@ -514,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1528-shuffle-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1528-shuffle-string/) | Easy |
+| [1529-minimum-suffix-flips](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1529-minimum-suffix-flips/) | Medium |
 | [1573-number-of-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
@@ -693,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1529-minimum-suffix-flips](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1529-minimum-suffix-flips/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |

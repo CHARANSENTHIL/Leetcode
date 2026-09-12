@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1487-making-file-names-unique](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1487-making-file-names-unique/) | Medium |
+| [1496-path-crossing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1496-path-crossing/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [1681-minimum-incompatibility](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1681-minimum-incompatibility/) | Hard |
@@ -504,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1487-making-file-names-unique](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1487-making-file-names-unique/) | Medium |
+| [1496-path-crossing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1496-path-crossing/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1573-number-of-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |

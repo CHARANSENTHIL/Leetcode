@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2968-apply-operations-to-maximize-frequency-score/) | Hard |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+| [3011-find-if-array-can-be-sorted](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
@@ -943,6 +944,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2968-apply-operations-to-maximize-frequency-score/) | Hard |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+| [3011-find-if-array-can-be-sorted](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
@@ -1549,6 +1551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
+| [3011-find-if-array-can-be-sorted](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |

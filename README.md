@@ -535,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 | [1745-palindrome-partitioning-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1745-palindrome-partitioning-iv/) | Hard |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
+| [1754-largest-merge-of-two-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
@@ -718,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1702-maximum-binary-string-after-change](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1702-maximum-binary-string-after-change/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1736-latest-time-by-replacing-hidden-digits/) | Easy |
+| [1754-largest-merge-of-two-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
@@ -949,6 +951,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
+| [1754-largest-merge-of-two-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |

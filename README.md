@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2607-make-k-subarray-sums-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2681-power-of-heroes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2681-power-of-heroes/) | Hard |
+| [2706-buy-two-chocolates](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2762-continuous-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
@@ -775,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2600-k-items-with-the-maximum-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2601-prime-subtraction-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2601-prime-subtraction-operation/) | Medium |
 | [2607-make-k-subarray-sums-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
+| [2706-buy-two-chocolates](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3362-zero-array-transformation-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3362-zero-array-transformation-iii/) | Medium |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
@@ -902,6 +904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2607-make-k-subarray-sums-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2681-power-of-heroes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2681-power-of-heroes/) | Hard |
+| [2706-buy-two-chocolates](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |

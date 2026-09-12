@@ -354,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1681-minimum-incompatibility](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1681-minimum-incompatibility/) | Hard |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+| [1763-longest-nice-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2103-rings-and-rods](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2103-rings-and-rods/) | Easy |
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0932-beautiful-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0932-beautiful-array/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
+| [1763-longest-nice-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -538,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1754-largest-merge-of-two-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1759-count-number-of-homogenous-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
+| [1763-longest-nice-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
@@ -1354,6 +1357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1040-moving-stones-until-consecutive-ii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1763-longest-nice-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2762-continuous-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
@@ -1397,6 +1401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1681-minimum-incompatibility](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1681-minimum-incompatibility/) | Hard |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
+| [1763-longest-nice-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1835-find-xor-sum-of-all-pairs-bitwise-and/) | Hard |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2306-naming-a-company](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2306-naming-a-company/) | Hard |

@@ -529,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1678-goal-parser-interpretation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1702-maximum-binary-string-after-change](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1702-maximum-binary-string-after-change/) | Medium |
 | [1704-determine-if-string-halves-are-alike](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1717-maximum-score-from-removing-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
@@ -655,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
+| [1717-maximum-score-from-removing-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1776-car-fleet-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
 | [1856-maximum-subarray-min-product](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
@@ -709,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1702-maximum-binary-string-after-change](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1702-maximum-binary-string-after-change/) | Medium |
+| [1717-maximum-score-from-removing-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |

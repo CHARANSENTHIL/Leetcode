@@ -442,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3365-rearrange-k-substrings-to-form-target-string/) | Medium |
 | [3458-select-k-disjoint-special-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3458-select-k-disjoint-special-substrings/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -635,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3365-rearrange-k-substrings-to-form-target-string/) | Medium |
 | [3458-select-k-disjoint-special-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3458-select-k-disjoint-special-substrings/) | Medium |
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
@@ -820,6 +822,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
 | [3074-apple-redistribution-into-boxes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3362-zero-array-transformation-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3362-zero-array-transformation-iii/) | Medium |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
@@ -976,6 +979,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3074-apple-redistribution-into-boxes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3075-maximize-happiness-of-selected-children](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3075-maximize-happiness-of-selected-children/) | Medium |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3347-maximum-frequency-of-an-element-after-performing-operations-ii/) | Hard |
@@ -1455,6 +1459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3583-count-special-triplets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3583-count-special-triplets/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -1501,6 +1506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2679-sum-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2762-continuous-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3080-mark-elements-on-array-by-performing-queries/) | Medium |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3081-replace-question-marks-in-string-to-minimize-its-value/) | Medium |
 | [3362-zero-array-transformation-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3362-zero-array-transformation-iii/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |

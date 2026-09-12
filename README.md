@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0135-candy](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0135-candy/) | Hard |
 | [0137-single-number-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
@@ -635,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0321-create-maximum-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0341-flatten-nested-list-iterator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0402-remove-k-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
@@ -739,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0321-create-maximum-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0402-remove-k-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
@@ -1079,6 +1082,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0085-maximal-rectangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0091-decode-ways](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -1426,6 +1430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0085-maximal-rectangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0661-image-smoother](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0661-image-smoother/) | Easy |
 | [0733-flood-fill](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0794-valid-tic-tac-toe-state](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0794-valid-tic-tac-toe-state/) | Medium |

@@ -345,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1487-making-file-names-unique](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1487-making-file-names-unique/) | Medium |
 | [1496-path-crossing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1496-path-crossing/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [1681-minimum-incompatibility](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1681-minimum-incompatibility/) | Hard |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
@@ -510,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1507-reformat-date](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1507-reformat-date/) | Easy |
 | [1513-number-of-substrings-with-only-1s](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1573-number-of-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
@@ -1092,6 +1094,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1363-largest-multiple-of-three](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1402-reducing-dishes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
@@ -1139,6 +1142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0798-smallest-rotation-with-highest-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0798-smallest-rotation-with-highest-score/) | Hard |
 | [0813-largest-sum-of-averages](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [1000-minimum-cost-to-merge-stones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
@@ -1345,6 +1349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1617-count-subtrees-with-max-distance-between-cities/) | Hard |

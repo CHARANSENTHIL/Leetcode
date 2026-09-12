@@ -822,6 +822,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2706-buy-two-chocolates](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2712-minimum-cost-to-make-all-characters-equal/) | Medium |
+| [2745-construct-the-longest-new-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
@@ -1214,6 +1215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2601-prime-subtraction-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2601-prime-subtraction-operation/) | Medium |
 | [2607-make-k-subarray-sums-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
 | [2681-power-of-heroes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2681-power-of-heroes/) | Hard |
+| [2745-construct-the-longest-new-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |
@@ -1314,6 +1316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2712-minimum-cost-to-make-all-characters-equal/) | Medium |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
+| [2745-construct-the-longest-new-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2902-count-of-sub-multisets-with-bounded-sum/) | Hard |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
@@ -1816,6 +1819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0810-chalkboard-xor-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [2568-minimum-impossible-or](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2568-minimum-impossible-or/) | Medium |
 | [2731-movement-of-robots](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2731-movement-of-robots/) | Medium |
+| [2745-construct-the-longest-new-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2745-construct-the-longest-new-string/) | Medium |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |
 ## Impartial Game
 | Problem Name | Difficulty |

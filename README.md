@@ -508,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-path-crossing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1496-path-crossing/) | Easy |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
 | [1507-reformat-date](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1507-reformat-date/) | Easy |
+| [1513-number-of-substrings-with-only-1s](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1573-number-of-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
@@ -986,6 +987,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1363-largest-multiple-of-three](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1363-largest-multiple-of-three/) | Hard |
+| [1513-number-of-substrings-with-only-1s](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1573-number-of-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |

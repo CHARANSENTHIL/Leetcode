@@ -672,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2591-distribute-money-to-maximum-children](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
+| [2600-k-items-with-the-maximum-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3576-transform-array-to-all-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3576-transform-array-to-all-equal-elements/) | Medium |
@@ -980,6 +981,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2591-distribute-money-to-maximum-children](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2591-distribute-money-to-maximum-children/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
+| [2600-k-items-with-the-maximum-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3577-count-the-number-of-computer-unlocking-permutations/) | Medium |

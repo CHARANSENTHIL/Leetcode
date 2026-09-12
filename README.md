@@ -541,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1759-count-number-of-homogenous-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1763-longest-nice-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
@@ -957,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |

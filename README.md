@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3362-zero-array-transformation-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3362-zero-array-transformation-iii/) | Medium |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3380-maximum-area-rectangle-with-point-constraints-i/) | Medium |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3382-maximum-area-rectangle-with-point-constraints-ii/) | Hard |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3394-check-if-grid-can-be-cut-into-sections/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
@@ -893,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3380-maximum-area-rectangle-with-point-constraints-i/) | Medium |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3382-maximum-area-rectangle-with-point-constraints-ii/) | Hard |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3394-check-if-grid-can-be-cut-into-sections/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |

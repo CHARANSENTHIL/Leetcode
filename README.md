@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2681-power-of-heroes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2681-power-of-heroes/) | Hard |
 | [2706-buy-two-chocolates](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2762-continuous-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2781-length-of-the-longest-valid-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2781-length-of-the-longest-valid-substring/) | Hard |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
 | [2601-prime-subtraction-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2601-prime-subtraction-operation/) | Medium |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2831-find-the-longest-equal-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
@@ -908,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2681-power-of-heroes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2681-power-of-heroes/) | Hard |
 | [2706-buy-two-chocolates](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2747-count-zero-request-servers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
@@ -1233,6 +1237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2681-power-of-heroes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2681-power-of-heroes/) | Hard |
 | [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2902-count-of-sub-multisets-with-bounded-sum/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -1332,6 +1337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0895-maximum-frequency-stack](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2762-continuous-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |
 | [3590-kth-smallest-path-xor-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3590-kth-smallest-path-xor-sum/) | Hard |
 ## Treap
@@ -1350,6 +1356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0488-zuma-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0488-zuma-game/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1728-cat-and-mouse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1728-cat-and-mouse-ii/) | Hard |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1576,6 +1583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [2679-sum-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [3446-sort-matrix-by-diagonals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |

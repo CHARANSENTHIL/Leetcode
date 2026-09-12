@@ -1554,6 +1554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0052-n-queens-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0089-gray-code/) | Medium |
@@ -1727,4 +1728,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0052-n-queens-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->

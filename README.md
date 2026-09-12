@@ -534,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1736-latest-time-by-replacing-hidden-digits/) | Easy |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 | [1745-palindrome-partitioning-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1745-palindrome-partitioning-iv/) | Hard |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
@@ -947,6 +948,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |

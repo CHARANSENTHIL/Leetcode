@@ -521,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2953-count-complete-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2953-count-complete-substrings/) | Hard |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3889-mirror-frequency-distance](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3889-mirror-frequency-distance/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Depth-First Search
@@ -891,6 +892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3584-maximum-product-of-first-and-last-elements-of-a-subsequence/) | Medium |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
@@ -998,6 +1000,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3993-maximum-value-of-an-alternating-sequence/) | Medium |
 ## Dynamic Programming
@@ -1302,6 +1305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2935-maximum-strong-pair-xor-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2935-maximum-strong-pair-xor-ii/) | Hard |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |

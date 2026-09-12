@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
 | [3433-count-mentions-per-user](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3433-count-mentions-per-user/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
+| [3457-eat-pizzas](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3457-eat-pizzas/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
@@ -775,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3413-maximum-coins-from-k-consecutive-bags/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
+| [3457-eat-pizzas](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3457-eat-pizzas/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3576-transform-array-to-all-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3576-transform-array-to-all-equal-elements/) | Medium |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3587-minimum-adjacent-swaps-to-alternate-parity/) | Medium |
@@ -914,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | Medium |
 | [3433-count-mentions-per-user](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3433-count-mentions-per-user/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
+| [3457-eat-pizzas](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3457-eat-pizzas/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |

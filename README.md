@@ -967,6 +967,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2572-count-the-number-of-square-free-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2578-split-with-minimum-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2578-split-with-minimum-sum/) | Easy |
+| [2579-count-total-number-of-colored-cells](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2579-count-total-number-of-colored-cells/) | Medium |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2584-split-the-array-to-make-coprime-products/) | Hard |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |

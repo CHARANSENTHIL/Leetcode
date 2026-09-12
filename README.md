@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3380-maximum-area-rectangle-with-point-constraints-i/) | Medium |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3382-maximum-area-rectangle-with-point-constraints-ii/) | Hard |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3394-check-if-grid-can-be-cut-into-sections/) | Medium |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
@@ -763,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2607-make-k-subarray-sums-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2607-make-k-subarray-sums-equal/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3362-zero-array-transformation-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3362-zero-array-transformation-iii/) | Medium |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3576-transform-array-to-all-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3576-transform-array-to-all-equal-elements/) | Medium |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3587-minimum-adjacent-swaps-to-alternate-parity/) | Medium |
@@ -895,6 +897,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3380-maximum-area-rectangle-with-point-constraints-i/) | Medium |
 | [3382-maximum-area-rectangle-with-point-constraints-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3382-maximum-area-rectangle-with-point-constraints-ii/) | Hard |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3394-check-if-grid-can-be-cut-into-sections/) | Medium |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |

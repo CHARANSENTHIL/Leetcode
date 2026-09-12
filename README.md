@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3769-sort-integers-by-binary-reflection](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
@@ -687,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3587-minimum-adjacent-swaps-to-alternate-parity/) | Medium |
 | [3588-find-maximum-area-of-a-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3588-find-maximum-area-of-a-triangle/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3891-minimum-increase-to-maximize-special-indices/) | Medium |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3993-maximum-value-of-an-alternating-sequence/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
@@ -807,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3769-sort-integers-by-binary-reflection](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3769-sort-integers-by-binary-reflection/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -893,6 +896,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3584-maximum-product-of-first-and-last-elements-of-a-subsequence/) | Medium |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
@@ -1002,6 +1006,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3993-maximum-value-of-an-alternating-sequence/) | Medium |
 ## Dynamic Programming

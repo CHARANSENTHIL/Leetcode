@@ -631,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
+| [2712-minimum-cost-to-make-all-characters-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2712-minimum-cost-to-make-all-characters-equal/) | Medium |
 | [2781-length-of-the-longest-valid-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2781-length-of-the-longest-valid-substring/) | Hard |
 | [2785-sort-vowels-in-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -820,6 +821,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2697-lexicographically-smallest-palindrome](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+| [2712-minimum-cost-to-make-all-characters-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2712-minimum-cost-to-make-all-characters-equal/) | Medium |
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3035-maximum-palindromes-after-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3035-maximum-palindromes-after-operations/) | Medium |
@@ -1310,6 +1312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2681-power-of-heroes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2681-power-of-heroes/) | Hard |
 | [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+| [2712-minimum-cost-to-make-all-characters-equal](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2712-minimum-cost-to-make-all-characters-equal/) | Medium |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2713-maximum-strictly-increasing-cells-in-a-matrix/) | Hard |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2902-count-of-sub-multisets-with-bounded-sum/) | Hard |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |

@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2968-apply-operations-to-maximize-frequency-score/) | Hard |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
@@ -439,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2967-minimum-cost-to-make-array-equalindromic](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2967-minimum-cost-to-make-array-equalindromic/) | Medium |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2968-apply-operations-to-maximize-frequency-score/) | Hard |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3762-minimum-operations-to-equalize-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3762-minimum-operations-to-equalize-subarrays/) | Hard |
 | [3920-maximize-fixed-points-after-deletions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3920-maximize-fixed-points-after-deletions/) | Hard |
 ## Divide and Conquer
@@ -875,6 +877,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2968-apply-operations-to-maximize-frequency-score/) | Hard |
 | [3024-type-of-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3024-type-of-triangle/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3606-coupon-code-validator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3606-coupon-code-validator/) | Easy |
@@ -1205,6 +1208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2875-minimum-size-subarray-in-infinite-array/) | Medium |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2968-apply-operations-to-maximize-frequency-score/) | Hard |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3883-count-non-decreasing-arrays-with-given-digit-sums](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3883-count-non-decreasing-arrays-with-given-digit-sums/) | Hard |
@@ -1386,6 +1390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2968-apply-operations-to-maximize-frequency-score/) | Hard |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3589-count-prime-gap-balanced-subarrays/) | Medium |
 ## Bit Manipulation

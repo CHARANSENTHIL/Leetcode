@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1424-diagonal-traverse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1424-diagonal-traverse-ii/) | Medium |
+| [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | Medium |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1366-rank-teams-by-votes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
+| [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
@@ -494,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1451-rearrange-words-in-a-sentence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
+| [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1573-number-of-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |

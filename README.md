@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1598-crawler-log-folder](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1598-crawler-log-folder/) | Easy |
+| [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1599-maximum-profit-of-operating-a-centennial-wheel/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
@@ -1754,6 +1755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1006-clumsy-factorial](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1006-clumsy-factorial/) | Medium |
 | [1583-count-unhappy-friends](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1583-count-unhappy-friends/) | Medium |
+| [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1599-maximum-profit-of-operating-a-centennial-wheel/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |

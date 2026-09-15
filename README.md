@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1598-crawler-log-folder](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1599-maximum-profit-of-operating-a-centennial-wheel/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1540-can-convert-string-in-k-moves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1540-can-convert-string-in-k-moves/) | Medium |
 | [1542-find-longest-awesome-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1542-find-longest-awesome-substring/) | Hard |
 | [1590-make-sum-divisible-by-p](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [1681-minimum-incompatibility](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1681-minimum-incompatibility/) | Hard |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
@@ -605,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1542-find-longest-awesome-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1542-find-longest-awesome-substring/) | Hard |
 | [1573-number-of-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1573-number-of-ways-to-split-a-string/) | Medium |
 | [1598-crawler-log-folder](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1598-crawler-log-folder/) | Easy |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
@@ -975,6 +978,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |

@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1626-best-team-with-no-conflicts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
@@ -499,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2560-house-robber-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
@@ -981,6 +983,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1626-best-team-with-no-conflicts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |

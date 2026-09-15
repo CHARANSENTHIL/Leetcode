@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1583-count-unhappy-friends](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1583-count-unhappy-friends/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1626-best-team-with-no-conflicts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1540-can-convert-string-in-k-moves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1540-can-convert-string-in-k-moves/) | Medium |
 | [1542-find-longest-awesome-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1542-find-longest-awesome-substring/) | Hard |
+| [1590-make-sum-divisible-by-p](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [1681-minimum-incompatibility](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1681-minimum-incompatibility/) | Hard |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
@@ -1387,6 +1389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |

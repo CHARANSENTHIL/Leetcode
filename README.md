@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1583-count-unhappy-friends](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1583-count-unhappy-friends/) | Medium |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1626-best-team-with-no-conflicts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
@@ -1733,6 +1734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1006-clumsy-factorial](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1006-clumsy-factorial/) | Medium |
+| [1583-count-unhappy-friends](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1583-count-unhappy-friends/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |

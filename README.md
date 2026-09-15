@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1591-strange-printer-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1591-strange-printer-ii/) | Hard |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1626-best-team-with-no-conflicts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
@@ -714,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1591-strange-printer-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1591-strange-printer-ii/) | Hard |
 | [1728-cat-and-mouse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1728-cat-and-mouse-ii/) | Hard |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
@@ -1716,6 +1718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1020-number-of-enclaves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1591-strange-printer-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1591-strange-printer-ii/) | Hard |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1728-cat-and-mouse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1728-cat-and-mouse-ii/) | Hard |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
@@ -1943,6 +1946,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1591-strange-printer-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1591-strange-printer-ii/) | Hard |
 | [1728-cat-and-mouse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1728-cat-and-mouse-ii/) | Hard |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 ## Dijkstra's Algorithm
@@ -1989,6 +1993,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [1591-strange-printer-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1591-strange-printer-ii/) | Hard |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 ## Bipartite Graph
 | Problem Name | Difficulty |

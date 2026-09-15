@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1598-crawler-log-folder](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1599-maximum-profit-of-operating-a-centennial-wheel](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1599-maximum-profit-of-operating-a-centennial-wheel/) | Medium |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1626-best-team-with-no-conflicts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
@@ -1646,6 +1647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1542-find-longest-awesome-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1542-find-longest-awesome-substring/) | Hard |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1617-count-subtrees-with-max-distance-between-cities/) | Hard |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
@@ -1857,6 +1859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0089-gray-code](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0679-24-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0679-24-game/) | Hard |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 ## Meet in the Middle
@@ -1911,6 +1914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0829-consecutive-numbers-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [0869-reordered-power-of-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1617-count-subtrees-with-max-distance-between-cities/) | Hard |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [2306-naming-a-company](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2306-naming-a-company/) | Hard |

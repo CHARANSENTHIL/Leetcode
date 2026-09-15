@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1583-count-unhappy-friends](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1583-count-unhappy-friends/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1595-minimum-cost-to-connect-two-groups-of-points/) | Hard |
 | [1626-best-team-with-no-conflicts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
@@ -809,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1529-minimum-suffix-flips](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1529-minimum-suffix-flips/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1702-maximum-binary-string-after-change](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1702-maximum-binary-string-after-change/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
@@ -962,6 +964,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
@@ -1383,6 +1386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1000-minimum-cost-to-merge-stones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |

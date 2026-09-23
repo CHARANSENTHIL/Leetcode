@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1424-diagonal-traverse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1424-diagonal-traverse-ii/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | Medium |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |

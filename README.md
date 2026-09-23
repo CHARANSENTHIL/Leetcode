@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-two-best-non-overlapping-events](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2056-number-of-valid-move-combinations-on-chessboard/) | Hard |
 | [2057-smallest-index-with-equal-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
+| [2059-minimum-operations-to-convert-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2059-minimum-operations-to-convert-number/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -765,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1992-find-all-groups-of-farmland](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
+| [2059-minimum-operations-to-convert-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2059-minimum-operations-to-convert-number/) | Medium |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Union-Find

@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2040-kth-smallest-product-of-two-sorted-arrays/) | Hard |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -536,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2040-kth-smallest-product-of-two-sorted-arrays/) | Hard |
 | [2560-house-robber-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |

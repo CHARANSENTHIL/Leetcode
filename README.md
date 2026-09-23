@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2040-kth-smallest-product-of-two-sorted-arrays/) | Hard |
 | [2049-count-nodes-with-the-highest-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
+| [2053-kth-distinct-string-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -451,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
+| [2053-kth-distinct-string-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2103-rings-and-rods](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2103-rings-and-rods/) | Easy |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
@@ -670,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1771-maximize-palindrome-length-from-subsequences/) | Hard |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2103-rings-and-rods](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2103-rings-and-rods/) | Easy |
@@ -1593,6 +1596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1994-the-number-of-good-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [2053-kth-distinct-string-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |

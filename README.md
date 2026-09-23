@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-count-special-quadruplets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1995-count-special-quadruplets/) | Easy |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2003-smallest-missing-genetic-value-in-each-subtree/) | Hard |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -438,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1763-longest-nice-substring](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1994-the-number-of-good-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [1995-count-special-quadruplets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1995-count-special-quadruplets/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2103-rings-and-rods](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2103-rings-and-rods/) | Easy |
@@ -1566,6 +1568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1994-the-number-of-good-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |

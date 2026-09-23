@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1453-maximum-number-of-darts-inside-of-a-circular-dartboard/) | Hard |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
@@ -989,6 +990,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1424-diagonal-traverse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1451-rearrange-words-in-a-sentence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -1595,6 +1597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1383-maximum-performance-of-a-team](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [1424-diagonal-traverse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1424-diagonal-traverse-ii/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |

@@ -1,14 +1,14 @@
 class Solution:
-    def findOriginalArray(self, changed: List[int]) -> List[int]:
-        c = Counter(changed)
-
-        zeros, m = divmod(c[0], 2)
-        if m: return []
-        ans = [0]*zeros   
-
-        for n in sorted(c.keys()):
-            if c[n] > c[2*n]: return []
-            c[2*n]-= c[n]
-            ans.extend([n]*c[n])
-
-        return ans
+    def findOriginalArray(self, changed):
+        """
+        :type changed: List[int]
+        :rtype: List[int]
+        """
+        if len(changed)%2:
+            return []
+        cnts = collections.Counter(changed)
+        for x in sorted(cnts.keys()):
+            if cnts[x] > cnts[2*x]:
+                return []
+            cnts[2*x] -= cnts[x] if x else cnts[x]//2
+        return list(cnts.elements())

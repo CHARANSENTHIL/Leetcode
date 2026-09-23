@@ -1,10 +1,10 @@
 class Solution:
-    def isValid(self, s: str) -> bool:
-        mp = {'}': '{', ']': '[', ')': '('}
-        stack = []
-        for ch in s:
-            if ch in mp.values():
-                stack.append(ch)
-            elif not stack  or mp[ch] != stack.pop():
+    # @return a boolean
+    def isValid(self, s):
+        stack, lookup = [], {"(": ")", "{": "}", "[": "]"}
+        for parenthese in s:
+            if parenthese in lookup:
+                stack.append(parenthese)
+            elif len(stack) == 0 or lookup[stack.pop()] != parenthese:
                 return False
-        return not stack
+        return len(stack) == 0

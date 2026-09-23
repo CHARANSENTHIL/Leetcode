@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1994-the-number-of-good-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [1995-count-special-quadruplets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1995-count-special-quadruplets/) | Easy |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2003-smallest-missing-genetic-value-in-each-subtree/) | Hard |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -718,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1992-find-all-groups-of-farmland](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2003-smallest-missing-genetic-value-in-each-subtree/) | Hard |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2581-count-number-of-possible-root-nodes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2581-count-number-of-possible-root-nodes/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
@@ -745,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [1020-number-of-enclaves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2003-smallest-missing-genetic-value-in-each-subtree/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -1117,6 +1120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1617-count-subtrees-with-max-distance-between-cities/) | Hard |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2003-smallest-missing-genetic-value-in-each-subtree/) | Hard |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2581-count-number-of-possible-root-nodes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2581-count-number-of-possible-root-nodes/) | Hard |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
@@ -1401,6 +1405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1771-maximize-palindrome-length-from-subsequences/) | Hard |
 | [1872-stone-game-viii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1994-the-number-of-good-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2003-smallest-missing-genetic-value-in-each-subtree/) | Hard |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2147-number-of-ways-to-divide-a-long-corridor/) | Hard |
 | [2560-house-robber-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |

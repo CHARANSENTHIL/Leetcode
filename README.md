@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2040-kth-smallest-product-of-two-sorted-arrays/) | Hard |
 | [2049-count-nodes-with-the-highest-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2054-two-best-non-overlapping-events](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2008-maximum-earnings-from-taxi](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2040-kth-smallest-product-of-two-sorted-arrays/) | Hard |
+| [2054-two-best-non-overlapping-events](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2560-house-robber-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2576-find-the-maximum-number-of-marked-indices/) | Medium |
@@ -1051,6 +1053,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2054-two-best-non-overlapping-events](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -1434,6 +1437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1994-the-number-of-good-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2003-smallest-missing-genetic-value-in-each-subtree/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
+| [2054-two-best-non-overlapping-events](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2147-number-of-ways-to-divide-a-long-corridor/) | Hard |
 | [2560-house-robber-iv](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2572-count-the-number-of-square-free-subsets/) | Medium |
@@ -1657,6 +1661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1776-car-fleet-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
+| [2054-two-best-non-overlapping-events](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [2679-sum-in-a-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2679-sum-in-a-matrix/) | Medium |

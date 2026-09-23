@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2040-kth-smallest-product-of-two-sorted-arrays/) | Hard |
+| [2049-count-nodes-with-the-highest-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -735,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1992-find-all-groups-of-farmland](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2003-smallest-missing-genetic-value-in-each-subtree/) | Hard |
+| [2049-count-nodes-with-the-highest-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2581-count-number-of-possible-root-nodes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2581-count-number-of-possible-root-nodes/) | Hard |
 | [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3367-maximize-sum-of-weights-after-edge-removals/) | Hard |
@@ -1141,6 +1143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1617-count-subtrees-with-max-distance-between-cities/) | Hard |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2003-smallest-missing-genetic-value-in-each-subtree/) | Hard |
+| [2049-count-nodes-with-the-highest-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2581-count-number-of-possible-root-nodes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2581-count-number-of-possible-root-nodes/) | Hard |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3068-find-the-maximum-sum-of-node-values/) | Hard |
@@ -1157,6 +1160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [2049-count-nodes-with-the-highest-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -1663,6 +1667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0508-most-frequent-subtree-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [2049-count-nodes-with-the-highest-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

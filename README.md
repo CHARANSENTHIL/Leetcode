@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-maximum-building-height](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1856-maximum-subarray-min-product](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [1872-stone-game-viii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
+| [1991-find-the-middle-index-in-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -1441,6 +1442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1856-maximum-subarray-min-product](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1856-maximum-subarray-min-product/) | Medium |
 | [1872-stone-game-viii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
+| [1991-find-the-middle-index-in-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |

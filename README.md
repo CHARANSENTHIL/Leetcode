@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | Medium |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1453-maximum-number-of-darts-inside-of-a-circular-dartboard/) | Hard |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
@@ -1356,6 +1357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1363-largest-multiple-of-three](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1402-reducing-dishes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1531-string-compression-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1531-string-compression-ii/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -2083,4 +2085,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0052-n-queens-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1458-max-dot-product-of-two-subsequences/) | Hard |
 <!---LeetCode Topics End-->

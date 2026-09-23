@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2008-maximum-earnings-from-taxi](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2009-minimum-number-of-operations-to-make-array-continuous/) | Hard |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2012-sum-of-beauty-in-the-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |

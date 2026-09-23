@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-kth-distinct-string-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2054-two-best-non-overlapping-events](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2056-number-of-valid-move-combinations-on-chessboard/) | Hard |
+| [2057-smallest-index-with-equal-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |

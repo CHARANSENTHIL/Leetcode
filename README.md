@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1992-find-all-groups-of-farmland](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [1994-the-number-of-good-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
 | [1995-count-special-quadruplets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1995-count-special-quadruplets/) | Easy |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -798,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1717-maximum-score-from-removing-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1776-car-fleet-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
 | [1856-maximum-subarray-min-product](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1856-maximum-subarray-min-product/) | Medium |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2589-minimum-time-to-complete-all-tasks/) | Hard |
@@ -859,6 +861,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1717-maximum-score-from-removing-substrings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1736-latest-time-by-replacing-hidden-digits/) | Easy |
 | [1754-largest-merge-of-two-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
@@ -929,6 +932,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1776-car-fleet-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1776-car-fleet-ii/) | Hard |
 | [1856-maximum-subarray-min-product](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1856-maximum-subarray-min-product/) | Medium |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2736-maximum-sum-queries](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2736-maximum-sum-queries/) | Hard |
 | [2818-apply-operations-to-maximize-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2818-apply-operations-to-maximize-score/) | Hard |
 | [3523-make-array-non-decreasing](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3523-make-array-non-decreasing/) | Medium |
@@ -1017,6 +1021,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1648-sell-diminishing-valued-colored-balls/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1840-maximum-building-height](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |

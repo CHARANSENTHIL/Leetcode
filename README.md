@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2012-sum-of-beauty-in-the-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -878,6 +879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2350-shortest-impossible-sequence-of-rolls/) | Hard |
@@ -1038,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2135-count-words-obtained-after-adding-a-letter/) | Medium |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -1998,6 +2001,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2049-count-nodes-with-the-highest-score](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2049-count-nodes-with-the-highest-score/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2054-two-best-non-overlapping-events](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2054-two-best-non-overlapping-events/) | Medium |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2056-number-of-valid-move-combinations-on-chessboard/) | Hard |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -675,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1812-determine-color-of-a-chessboard-square](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2056-number-of-valid-move-combinations-on-chessboard/) | Hard |
 | [2085-count-common-words-with-one-occurrence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2103-rings-and-rods](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2103-rings-and-rods/) | Easy |
@@ -1869,6 +1871,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2056-number-of-valid-move-combinations-on-chessboard/) | Hard |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2295-replace-elements-in-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -1970,6 +1973,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0679-24-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0679-24-game/) | Hard |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2056-number-of-valid-move-combinations-on-chessboard/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 ## Meet in the Middle

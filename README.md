@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
@@ -569,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -1073,6 +1075,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1346-check-if-n-and-its-double-exist](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |

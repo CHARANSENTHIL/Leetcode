@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1289-minimum-falling-path-sum-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
@@ -1457,6 +1458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1000-minimum-cost-to-merge-stones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1024-video-stitching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1024-video-stitching/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1289-minimum-falling-path-sum-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1363-largest-multiple-of-three](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1402-reducing-dishes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
@@ -1881,6 +1883,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |
+| [1289-minimum-falling-path-sum-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1591-strange-printer-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1591-strange-printer-ii/) | Hard |

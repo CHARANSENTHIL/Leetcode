@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [0957-prison-cells-after-n-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
 | [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
@@ -432,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-verifying-an-alien-dictionary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0957-prison-cells-after-n-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [1001-grid-illumination](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1001-grid-illumination/) | Hard |
 | [1002-find-common-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1002-find-common-characters/) | Easy |
@@ -2209,4 +2211,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0957-prison-cells-after-n-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 <!---LeetCode Topics End-->

@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1040-moving-stones-until-consecutive-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
@@ -1444,6 +1445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
 | [1000-minimum-cost-to-merge-stones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1024-video-stitching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1024-video-stitching/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1363-largest-multiple-of-three](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1402-reducing-dishes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1402-reducing-dishes/) | Hard |
@@ -1865,6 +1867,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-projection-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1020-number-of-enclaves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1591-strange-printer-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1591-strange-printer-ii/) | Hard |

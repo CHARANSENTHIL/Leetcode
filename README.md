@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1200-minimum-absolute-difference](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
@@ -443,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-find-common-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -895,6 +897,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1024-video-stitching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1024-video-stitching/) | Medium |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1323-maximum-69-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |

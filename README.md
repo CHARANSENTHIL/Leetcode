@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-minimum-increment-to-make-array-unique](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0948-bag-of-tokens](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
+| [0949-largest-time-for-given-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
 | [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -631,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-groups-of-special-equivalent-strings](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0899-orderly-queue](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0899-orderly-queue/) | Hard |
 | [0929-unique-email-addresses](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
+| [0949-largest-time-for-given-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1002-find-common-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1023-camelcase-matching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -1982,6 +1984,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0089-gray-code](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0679-24-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0679-24-game/) | Hard |
+| [0949-largest-time-for-given-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2056-number-of-valid-move-combinations-on-chessboard/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
@@ -2040,6 +2043,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0829-consecutive-numbers-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [0869-reordered-power-of-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0869-reordered-power-of-2/) | Medium |
+| [0949-largest-time-for-given-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1617-count-subtrees-with-max-distance-between-cities/) | Hard |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |

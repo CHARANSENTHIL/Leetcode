@@ -1,12 +1,15 @@
+import collections
+
+
 class Solution:
-    def canReorderDoubled(self, arr: List[int]) -> bool:
-        if sum(arr)%3 != 0: return False
-        
-        expected = defaultdict(int)
-        for a in sorted(arr, key = abs):
-            if expected[a] > 0:
-                expected[a] -= 1
-            else:
-                expected[2*a] += 1
-        
-        return all(x == 0 for x in expected.values())
+    def canReorderDoubled(self, A):
+        """
+        :type A: List[int]
+        :rtype: bool
+        """
+        count = collections.Counter(A)
+        for x in sorted(count, key=abs):
+            if count[x] > count[2*x]:
+                return False
+            count[2*x] -= count[x]
+        return True

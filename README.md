@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
@@ -796,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1992-find-all-groups-of-farmland](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
 | [2059-minimum-operations-to-convert-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2059-minimum-operations-to-convert-number/) | Medium |
@@ -1888,6 +1890,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |
 | [1289-minimum-falling-path-sum-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1591-strange-printer-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1591-strange-printer-ii/) | Hard |

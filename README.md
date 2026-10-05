@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-prison-cells-after-n-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [0963-minimum-area-rectangle-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
 | [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0957-prison-cells-after-n-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [0963-minimum-area-rectangle-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [1001-grid-illumination](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1001-grid-illumination/) | Hard |
 | [1002-find-common-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1002-find-common-characters/) | Easy |
@@ -1306,6 +1308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0927-three-equal-parts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0927-three-equal-parts/) | Hard |
 | [0932-beautiful-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0932-beautiful-array/) | Medium |
 | [0957-prison-cells-after-n-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
+| [0963-minimum-area-rectangle-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1006-clumsy-factorial](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1006-clumsy-factorial/) | Medium |
 | [1017-convert-to-base-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1017-convert-to-base-2/) | Medium |
@@ -1666,6 +1669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0858-mirror-reflection](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0858-mirror-reflection/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
+| [0963-minimum-area-rectangle-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [1037-valid-boomerang](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1453-maximum-number-of-darts-inside-of-a-circular-dartboard/) | Hard |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/CHARANSENTHIL/Leetcode/tree/main/3025-find-the-number-of-ways-to-place-people-i/) | Medium |

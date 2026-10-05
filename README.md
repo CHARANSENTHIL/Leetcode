@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |

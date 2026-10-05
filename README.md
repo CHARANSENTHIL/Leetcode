@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1306-jump-game-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [1310-xor-queries-of-a-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
@@ -1555,6 +1556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-largest-sum-of-averages](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0813-largest-sum-of-averages/) | Medium |
 | [1000-minimum-cost-to-merge-stones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |
+| [1310-xor-queries-of-a-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -1818,6 +1820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-prison-cells-after-n-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |
+| [1310-xor-queries-of-a-subarray](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |

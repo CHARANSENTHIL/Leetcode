@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
@@ -801,6 +802,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [1992-find-all-groups-of-farmland](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
 | [2059-minimum-operations-to-convert-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2059-minimum-operations-to-convert-number/) | Medium |
@@ -818,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0399-evaluate-division/) | Medium |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1591-strange-printer-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1591-strange-printer-ii/) | Hard |
 | [1728-cat-and-mouse-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1728-cat-and-mouse-ii/) | Hard |

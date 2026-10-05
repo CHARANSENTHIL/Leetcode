@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1277-count-square-submatrices-with-all-ones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -788,6 +790,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1020-number-of-enclaves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |
 | [1992-find-all-groups-of-farmland](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2039-the-time-when-the-network-becomes-idle/) | Medium |
 | [2059-minimum-operations-to-convert-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2059-minimum-operations-to-convert-number/) | Medium |
@@ -1786,6 +1789,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0957-prison-cells-after-n-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
+| [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
@@ -1873,6 +1877,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-surface-area-of-3d-shapes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [1020-number-of-enclaves](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1591-strange-printer-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1591-strange-printer-ii/) | Hard |

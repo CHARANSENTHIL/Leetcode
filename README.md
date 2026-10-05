@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0950-reveal-cards-in-increasing-order](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
 | [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
@@ -637,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0929-unique-email-addresses](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0949-largest-time-for-given-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [1002-find-common-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1023-camelcase-matching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -877,6 +879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-minimum-increment-to-make-array-unique](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0948-bag-of-tokens](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |

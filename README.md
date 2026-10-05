@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-verifying-an-alien-dictionary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
+| [0957-prison-cells-after-n-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
 | [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0929-unique-email-addresses](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
+| [0957-prison-cells-after-n-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [1001-grid-illumination](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1001-grid-illumination/) | Hard |
 | [1002-find-common-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1002-find-common-characters/) | Easy |
@@ -1299,6 +1301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0927-three-equal-parts](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0927-three-equal-parts/) | Hard |
 | [0932-beautiful-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0932-beautiful-array/) | Medium |
+| [0957-prison-cells-after-n-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1006-clumsy-factorial](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1006-clumsy-factorial/) | Medium |
 | [1017-convert-to-base-2](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1017-convert-to-base-2/) | Medium |
@@ -1761,6 +1764,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0805-split-array-with-same-average](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0805-split-array-with-same-average/) | Hard |
 | [0810-chalkboard-xor-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [0832-flipping-an-image](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0957-prison-cells-after-n-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -2198,4 +2202,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1994-the-number-of-good-subsets](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1994-the-number-of-good-subsets/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0957-prison-cells-after-n-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
 <!---LeetCode Topics End-->

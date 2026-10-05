@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | Hard |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
@@ -1057,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1040-moving-stones-until-consecutive-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1346-check-if-n-and-its-double-exist](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |

@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-validate-stack-sequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0948-bag-of-tokens](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0949-largest-time-for-given-digits/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
 | [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -1022,6 +1023,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0923-3sum-with-multiplicity](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0948-bag-of-tokens](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0948-bag-of-tokens/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
 | [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -1874,6 +1876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1006-clumsy-factorial](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1006-clumsy-factorial/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1583-count-unhappy-friends](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1583-count-unhappy-friends/) | Medium |
@@ -1947,6 +1950,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2762-continuous-subarrays](https://github.com/CHARANSENTHIL/Leetcode/tree/main/2762-continuous-subarrays/) | Medium |

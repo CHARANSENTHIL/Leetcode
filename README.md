@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1298-maximum-candies-you-can-get-from-boxes/) | Hard |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1340-jump-game-v/) | Hard |
@@ -1348,6 +1349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-valid-boomerang](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1040-moving-stones-until-consecutive-ii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [1323-maximum-69-number](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1330-reverse-subarray-to-maximize-array-value/) | Hard |

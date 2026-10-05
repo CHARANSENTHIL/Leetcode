@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-array-of-doubled-pairs](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
 | [0957-prison-cells-after-n-days](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0957-prison-cells-after-n-days/) | Medium |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
 | [0976-largest-perimeter-triangle](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
@@ -641,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0949-largest-time-for-given-digits](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0955-delete-columns-to-make-sorted-ii/) | Medium |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1002-find-common-characters](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1023-camelcase-matching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1023-camelcase-matching/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -1429,6 +1431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [0877-stone-game](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0887-super-egg-drop](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0887-super-egg-drop/) | Hard |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [0975-odd-even-jump](https://github.com/CHARANSENTHIL/Leetcode/tree/main/0975-odd-even-jump/) | Hard |
 | [1000-minimum-cost-to-merge-stones](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1000-minimum-cost-to-merge-stones/) | Hard |
 | [1024-video-stitching](https://github.com/CHARANSENTHIL/Leetcode/tree/main/1024-video-stitching/) | Medium |
